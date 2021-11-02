@@ -15,19 +15,19 @@ Education
 ---------
 
 2019-2023
-:   PhD, Biomedical Sciences ; City University of Hong Kong
+:   **PhD**, Biomedical Sciences, City University of Hong Kong
     
     Supervisor: Prof. WANG Xin [(https://xinwlab.netlify.app/)](https://xinwlab.netlify.app/)
 
 2012-2015
-:   MSc, Bioinformatics, Zhejiang University
+:   **MSc**, Bioinformatics, Zhejiang University
 
     Supervisor: Prof. CHEN Xin [(https://person.zju.edu.cn/xchen)](https://person.zju.edu.cn/xchen)
 
 2008-2012
-:   BSc, Biotechnology, Shandong Agriculture University
+:   **BSc**, Biotechnology, Shandong Agriculture University
 
-    Minor: BEng, Computer Science and Technology
+    Minor: **BEng**, Computer Science and Technology
 
 Employment
 ----------
@@ -35,27 +35,27 @@ Employment
 2021/07-2021/12
 :   City of Hope National Medical Center
     
-    Visiting scholar
+    **Visiting scholar**
 
 2019/03-Now
 :   Hangzhou Biomedical Biotechnology Co., LTD
 
-    Consultant for bioinformatics affair in CAP Certificated laboratory
+    **Consultant** for bioinformatics affair in CAP Certificated laboratory
 
 2016/10-2019/02
 :   Hangzhou Biomedical Biotechnology Co., LTD
   
-    Director of the Departhment of Bioinformatics
+    **Director** of the Departhment of Bioinformatics
 
 2015/09-2016/09
 :   Hangzhou Silicon Gene Biotechnology Co., LTD
 
-    Senior bioinformatics engineer
+    Senior bioinformatics **engineer**
 
 2015/07-2015/08
 :   National Supercomputing Center, Tianjin
 
-    Engineer (Internship)
+    **Engineer** (Internship)
 
 Publications
 ------------
