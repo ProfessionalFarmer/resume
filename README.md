@@ -1,6 +1,8 @@
 The Markdown Resume
 ===================
 
+mszep.github.io/pandoc_resume/
+
 ### Instructions
 
 ```bash
