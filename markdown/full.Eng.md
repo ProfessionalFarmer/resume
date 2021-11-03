@@ -14,7 +14,7 @@ Kowloon, Hong Kong
 Education
 ---------
 
-2019-2023
+2019-Now
 :   **PhD**, Biomedical Sciences, City University of Hong Kong
     
     Supervisor: Prof. WANG Xin [(https://xinwlab.netlify.app/)](https://xinwlab.netlify.app/)
@@ -35,7 +35,7 @@ Employment
 2021/07-2021/12
 :   City of Hope National Medical Center
     
-    **Visiting scholar**
+    **Visiting Scholar**
 
 2019/03-Now
 :   Hangzhou Biomedical Biotechnology Co., LTD
@@ -50,7 +50,7 @@ Employment
 2015/09-2016/09
 :   Hangzhou Silicon Gene Biotechnology Co., LTD
 
-    Senior bioinformatics **engineer**
+    Senior Bioinformatics **Engineer**
 
 2015/07-2015/08
 :   National Supercomputing Center, Tianjin
@@ -60,17 +60,17 @@ Employment
 Publications
 ------------
 
-* [letter] Wada, Yuma, **Zhongxu Zhu**, and Ajay Goel. "Re: Noninvasive identification of lymph node metastasis in T1 colorectal cancer by transcriptomic panel based on liquid biopsy assay: additional analytical strategies are needed (GASTRO-D-21-01671)." *Gastroenterology* (2021): S0016-5085.
+* [letter] Yuma Wada, **Zhongxu Zhu**, and Ajay Goel. "Re: Noninvasive identification of lymph node metastasis in T1 colorectal cancer by transcriptomic panel based on liquid biopsy assay: additional analytical strategies are needed (GASTRO-D-21-01671)." *Gastroenterology* (2021): S0016-5085.
 
-* Izumi, Daisuke†, **Zhongxu Zhu†**, Yuetong Chen†, Shusuke Toden, Xinying Huo, Mitsuro Kanda, Takatsugu Ishimoto et al. "Assessment of the Diagnostic Efficiency of a Liquid Biopsy Assay for Early Detection of Gastric Cancer." *JAMA network open* 4, no. 8 (2021): e2121129-e2121129.
+* Daisuke Izumi†, **Zhongxu Zhu†**, Yuetong Chen†, Shusuke Toden, Xinying Huo, Mitsuro Kanda, Takatsugu Ishimoto et al. "Assessment of the Diagnostic Efficiency of a Liquid Biopsy Assay for Early Detection of Gastric Cancer." *JAMA network open* 4, no. 8 (2021): e2121129-e2121129.
 
-* **Zhu, Zhongxu**, Keqin Gregg, and Wenli Zhou. "iRGvalid: A Robust in silico Method for Optimal Reference Gene Validation." *Frontiers in Genetics* (2021): 1460.
+* **Zhongxu Zhu**, Keqin Gregg, and Wenli Zhou. "iRGvalid: A Robust in silico Method for Optimal Reference Gene Validation." *Frontiers in Genetics* (2021): 1460.
 
 * Chen, Yu†, Tan Wu†, **Zhongxu Zhu†**, Hao Huang, Liang Zhang, Ajay Goel, Mengsu Yang, and Xin Wang. "An integrated workflow for biomarker development using microRNAs in extracellular vesicles for cancer precision medicine." In *Seminars in Cancer Biology*. Academic Press, 2021.
 
-* Chen, Shilu†, **Zhongxu Zhu†**, Xia Yang, Lili Liu, Yang-fan He, Ming-ming Yang, Xin-yuan Guan, Xin Wang, and Jing-ping Yun. "Cleavage and polyadenylation specific factor 1 promotes tumor progression via alternative polyadenylation and splicing in hepatocellular carcinoma." *Frontiers in cell and developmental biology* 9 (2021): 340.
+* Shilu Chen†, **Zhongxu Zhu†**, Xia Yang, Lili Liu, Yang-fan He, Ming-ming Yang, Xin-yuan Guan, Xin Wang, and Jing-ping Yun. "Cleavage and polyadenylation specific factor 1 promotes tumor progression via alternative polyadenylation and splicing in hepatocellular carcinoma." *Frontiers in cell and developmental biology* 9 (2021): 340.
 
-* [Book chapter] **Zhu, Zhongxu†**, Guiyuan Han†, Hao Huang†, Lingli He, Yu Chen, Jia Ke, Feng Gao, Louis Vermeulen, and Xin Wang. "Genome-wide Discovery of MicroRNA Biomarkers for Cancer Precision Medicine." (2020): 1-34.
+* [Book chapter] **Zhongxu Zhu†**, Guiyuan Han†, Hao Huang†, Lingli He, Yu Chen, Jia Ke, Feng Gao, Louis Vermeulen, and Xin Wang. "Genome-wide Discovery of MicroRNA Biomarkers for Cancer Precision Medicine." (2020): 1-34.
 
 * Hu, Han†, Weitao Wang†, **Zhongxu Zhu†**, Jianhua Zhu, Deyong Tan, Zhipeng Zhou, Chuanzao Mao, and Xin Chen. "GIPS: A software guide to sequencing-based direct gene cloning in forward genetics studies." *Plant physiology* 170, no. 4 (2016): 1929-1934. 
 
@@ -102,13 +102,13 @@ Teaching
 --------
 
 2019/09-2019/12
-:    Teaching assistant, Calculus for Life Science
+:    Teaching Assistant, Calculus for Life Science
 
 2020/01-2020/05
-:    Teaching assistant, Introduction to Biostatistics and Data Analysis
+:    Teaching Assistant, Introduction to Biostatistics and Data Analysis
 
 2020/09-2020/12
-:    Teaching assistant, Genomics and Bioinformatics
+:    Teaching Assistant, Genomics and Bioinformatics
 
 Professional Services
 ---------------------
