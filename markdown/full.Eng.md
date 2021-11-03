@@ -42,12 +42,12 @@ Employment
 
     **Consultant** for bioinformatics affair in CAP Certificated laboratory
 
-2016/10-2019/02
+2016/11-2019/02
 :   Hangzhou Biomedical Biotechnology Co., LTD
   
     **Director** of the Departhment of Bioinformatics
 
-2015/09-2016/09
+2015/09-2016/10
 :   Hangzhou Silicon Gene Biotechnology Co., LTD
 
     Senior Bioinformatics **Engineer**
