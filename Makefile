@@ -3,6 +3,8 @@ IN_DIR=markdown
 STYLES_DIR=styles
 STYLE=chmduquesne
 
+pandoc="./pandoc-2.16/bin/pandoc"
+
 all: html pdf docx rtf
 
 pdf: init

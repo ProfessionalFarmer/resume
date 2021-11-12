@@ -66,26 +66,22 @@ Publications
 
 * **Zhongxu Zhu**, Keqin Gregg, and Wenli Zhou. "iRGvalid: A Robust in silico Method for Optimal Reference Gene Validation." *Frontiers in Genetics* (2021): 1460.
 
-* Chen, Yu†, Tan Wu†, **Zhongxu Zhu†**, Hao Huang, Liang Zhang, Ajay Goel, Mengsu Yang, and Xin Wang. "An integrated workflow for biomarker development using microRNAs in extracellular vesicles for cancer precision medicine." In *Seminars in Cancer Biology*. Academic Press, 2021.
+* Chen Yu†, Tan Wu†, **Zhongxu Zhu†**, Hao Huang, Liang Zhang, Ajay Goel, Mengsu Yang, and Xin Wang. "An integrated workflow for biomarker development using microRNAs in extracellular vesicles for cancer precision medicine." In *Seminars in Cancer Biology*. Academic Press, 2021.
 
 * Shilu Chen†, **Zhongxu Zhu†**, Xia Yang, Lili Liu, Yang-fan He, Ming-ming Yang, Xin-yuan Guan, Xin Wang, and Jing-ping Yun. "Cleavage and polyadenylation specific factor 1 promotes tumor progression via alternative polyadenylation and splicing in hepatocellular carcinoma." *Frontiers in cell and developmental biology* 9 (2021): 340.
 
 * [Book chapter] **Zhongxu Zhu†**, Guiyuan Han†, Hao Huang†, Lingli He, Yu Chen, Jia Ke, Feng Gao, Louis Vermeulen, and Xin Wang. "Genome-wide Discovery of MicroRNA Biomarkers for Cancer Precision Medicine." (2020): 1-34.
 
-* Hu, Han†, Weitao Wang†, **Zhongxu Zhu†**, Jianhua Zhu, Deyong Tan, Zhipeng Zhou, Chuanzao Mao, and Xin Chen. "GIPS: A software guide to sequencing-based direct gene cloning in forward genetics studies." *Plant physiology* 170, no. 4 (2016): 1929-1934. 
+* Hu Han†, Weitao Wang†, **Zhongxu Zhu†**, Jianhua Zhu, Deyong Tan, Zhipeng Zhou, Chuanzao Mao, and Xin Chen. "GIPS: A software guide to sequencing-based direct gene cloning in forward genetics studies." *Plant physiology* 170, no. 4 (2016): 1929-1934. 
 
-* **Zhu, Zhongxu**, and Chen Xin. "Single cell sequencing technology and its applications progress." *Genomics and Applied Biology* (2015): 05.
+* **Zhongxu Zhu**, and Xin Chen. "Single cell sequencing technology and its applications progress." *Genomics and Applied Biology* (2015): 05.
 
 Conference Proceedings
 ----------------------
 
-**Poster**
+* [Poster]**Zhongxu Zhu**, and Xin Chen, Gene Identification Via Phenotype Sequencing: a Tool That Guides Sequencing Based Forward Genetics Studies, International Plant and Animal Genome Conference XXII 2014, San Diego, Jan. 2014
 
-* Gene Identification Via Phenotype Sequencing: a Tool That Guides Sequencing Based Forward Genetics Studies, International Plant and Animal Genome Conference XXII 2014, San Diego, Jan. 2014
-
-**Conference Presentations**
-
-* NULL
+* [Abstract]
 
 Patents
 -------
