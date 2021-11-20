@@ -60,7 +60,7 @@ Employment
 Publications
 ------------
 
-* [letter] Yuma Wada, **Zhongxu Zhu**, and Ajay Goel. "Re: Noninvasive identification of lymph node metastasis in T1 colorectal cancer by transcriptomic panel based on liquid biopsy assay: additional analytical strategies are needed (GASTRO-D-21-01671)." *Gastroenterology* (2021): S0016-5085.
+* [Letter] Yuma Wada, **Zhongxu Zhu**, and Ajay Goel. "Re: Noninvasive identification of lymph node metastasis in T1 colorectal cancer by transcriptomic panel based on liquid biopsy assay: additional analytical strategies are needed (GASTRO-D-21-01671)." *Gastroenterology* (2021): S0016-5085.
 
 * Daisuke Izumi†, **Zhongxu Zhu†**, Yuetong Chen†, Shusuke Toden, Xinying Huo, Mitsuro Kanda, Takatsugu Ishimoto et al. "Assessment of the Diagnostic Efficiency of a Liquid Biopsy Assay for Early Detection of Gastric Cancer." *JAMA network open* 4, no. 8 (2021): e2121129-e2121129.
 
@@ -79,7 +79,7 @@ Publications
 Conference Proceedings
 ----------------------
 
-* [Poster]**Zhongxu Zhu**, and Xin Chen, Gene Identification Via Phenotype Sequencing: a Tool That Guides Sequencing Based Forward Genetics Studies, International Plant and Animal Genome Conference XXII 2014, San Diego, Jan. 2014
+* [Poster] **Zhongxu Zhu**, and Xin Chen, Gene Identification Via Phenotype Sequencing: a Tool That Guides Sequencing Based Forward Genetics Studies, International Plant and Animal Genome Conference XXII 2014, San Diego, Jan. 2014
 
 * [Abstract]
 
