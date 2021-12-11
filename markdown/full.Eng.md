@@ -3,11 +3,11 @@ ZHU Zhongxu
 
 ----
 
-------------------------------   ------------------------------------------------
-City University of Hong Kong                              [https://www.zxzyl.com](https://www.zxzyl.com)
-83 Tat Chee Ave                     [ORCID:https://orcid.org/0000-0003-2197-5563](https://orcid.org/0000-0003-2197-5563)
+------------------------------   ---------------------------------------
+City University of Hong Kong                     [https://www.zxzyl.com](https://www.zxzyl.com)
+83 Tat Chee Ave                              [ORCID:0000-0003-2197-5563](https://orcid.org/0000-0003-2197-5563)
 Kowloon, Hong Kong
-------------------------------   ------------------------------------------------
+------------------------------   ---------------------------------------
 
 ----
 
@@ -60,7 +60,7 @@ Employment
 Publications
 ------------
 
-* Wada, Yuma, Mitsuo Shimada, Yuji Morine, Tetsuya Ikemoto, Yu Saito, **Zhongxu Zhu**, Xin Wang et al. "Circulating miRNA Signature Predicts Response to Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer." JCO Precision Oncology 5 (2021): 1788-1801. [link](https://doi.org/10.1200/PO.21.00015)
+* Wada, Yuma, Mitsuo Shimada, Yuji Morine, Tetsuya Ikemoto, Yu Saito, **Zhongxu Zhu**, Xin Wang et al. "Circulating miRNA Signature Predicts Response to Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer." *JCO Precision Oncology* 5 (2021): 1788-1801. [link](https://doi.org/10.1200/PO.21.00015)
 
 * [Letter] Wada, Yuma, **Zhongxu Zhu**, and Ajay Goel. "Re: Noninvasive identification of lymph node metastasis in T1 colorectal cancer by transcriptomic panel based on liquid biopsy assay: additional analytical strategies are needed (GASTRO-D-21-01671)." *Gastroenterology* (2021): S0016-5085. [link](https://doi.org/10.1053/j.gastro.2021.09.013)
 
