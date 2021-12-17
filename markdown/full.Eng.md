@@ -20,9 +20,9 @@ Education
     Supervisor: Prof. WANG Xin [(https://xinwlab.netlify.app/)](https://xinwlab.netlify.app/)
 
 2021/07-2021/12
-:   City of Hope National Medical Center
+:   **Visiting Scholar**, City of Hope National Medical Center
     
-    **Visiting Scholar**, Supervisor: Prof. Ajay GOEL [(ajay-goel-lab)](https://www.cityofhope.org/research/beckman-research-institute/research-departments-and-divisions/molecular-diagnostics-and-experimental-therapeutics/molecular-diagnostics-research-labs/ajay-goel-lab)
+    Supervisor: Prof. Ajay GOEL [(ajay-goel-lab)](https://www.cityofhope.org/research/beckman-research-institute/research-departments-and-divisions/molecular-diagnostics-and-experimental-therapeutics/molecular-diagnostics-research-labs/ajay-goel-lab)
 
 2012-2015
 :   **MSc**, Bioinformatics, Zhejiang University
