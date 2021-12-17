@@ -19,6 +19,11 @@ Education
     
     Supervisor: Prof. WANG Xin [(https://xinwlab.netlify.app/)](https://xinwlab.netlify.app/)
 
+2021/07-2021/12
+:   City of Hope National Medical Center
+    
+    **Visiting Scholar**, Supervisor: Prof. Ajay GOEL [(ajay-goel-lab)](https://www.cityofhope.org/research/beckman-research-institute/research-departments-and-divisions/molecular-diagnostics-and-experimental-therapeutics/molecular-diagnostics-research-labs/ajay-goel-lab)
+
 2012-2015
 :   **MSc**, Bioinformatics, Zhejiang University
 
@@ -31,11 +36,6 @@ Education
 
 Employment
 ----------
-
-2021/07-2021/12
-:   City of Hope National Medical Center
-    
-    **Visiting Scholar**
 
 2019/03-Now
 :   Hangzhou Biomedical Biotechnology Co., LTD
@@ -60,6 +60,8 @@ Employment
 Publications
 ------------
 
+**†** co-first author
+
 * Wada, Yuma, Mitsuo Shimada, Yuji Morine, Tetsuya Ikemoto, Yu Saito, **Zhongxu Zhu**, Xin Wang et al. "Circulating miRNA Signature Predicts Response to Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer." *JCO Precision Oncology* 5 (2021): 1788-1801. [link](https://doi.org/10.1200/PO.21.00015)
 
 * [Letter] Wada, Yuma, **Zhongxu Zhu**, and Ajay Goel. "Re: Noninvasive identification of lymph node metastasis in T1 colorectal cancer by transcriptomic panel based on liquid biopsy assay: additional analytical strategies are needed (GASTRO-D-21-01671)." *Gastroenterology* (2021): S0016-5085. [link](https://doi.org/10.1053/j.gastro.2021.09.013)
@@ -77,8 +79,6 @@ Publications
 * Hu Han†, Weitao Wang†, **Zhongxu Zhu†**, Jianhua Zhu, Deyong Tan, Zhipeng Zhou, Chuanzao Mao, and Xin Chen. "GIPS: A software guide to sequencing-based direct gene cloning in forward genetics studies." *Plant physiology* 170, no. 4 (2016): 1929-1934. [link](http://dx.doi.org/10.1104/pp.15.01327)
 
 * **Zhongxu Zhu**, and Xin Chen. "Single cell sequencing technology and its applications progress." *Genomics and Applied Biology* (2015): 05. [link](http://dx.doi.org/10.13417/j.gab.034.000902)
-
-**†** co-first author
 
 Conference Proceedings
 ----------------------
