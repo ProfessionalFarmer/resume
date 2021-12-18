@@ -117,7 +117,7 @@ Professional Services
 
 * Frontiers in Molecular Biosciences
 
-Honors and Awards
+Prizes
 -----------------
 
 * Outstanding Academic Performance Award(2021)
