@@ -37,15 +37,12 @@ Education
 Employment
 ----------
 
-2019/03-Now
+2016/11-Now
 :   Hangzhou Biomedical Biotechnology Co., LTD
 
-    **Consultant** for bioinformatics affair in CAP Certificated laboratory
+    2019/03-Now      **Consultant** for bioinformatics affair in CAP Certificated laboratory
 
-2016/11-2019/02
-:   Hangzhou Biomedical Biotechnology Co., LTD
-  
-    **Director** of the Departhment of Bioinformatics
+    2016/11-2019/02  **Director** of the Departhment of Bioinformatics
 
 2015/09-2016/10
 :   Hangzhou Silicon Gene Biotechnology Co., LTD
