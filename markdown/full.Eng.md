@@ -22,7 +22,7 @@ Education
 2021/07-2021/12
 :   **Visiting Scholar**, City of Hope National Medical Center
     
-    Supervisor: Prof. Ajay GOEL [(ajay-goel-lab)](https://www.cityofhope.org/research/beckman-research-institute/research-departments-and-divisions/molecular-diagnostics-and-experimental-therapeutics/molecular-diagnostics-research-labs/ajay-goel-lab)
+    Supervisor: Chair and Prof., Ajay GOEL [(https://www.cityofhope.org/mdet)](https://www.cityofhope.org/mdet)
 
 2012-2015
 :   **MSc**, Bioinformatics, Zhejiang University
