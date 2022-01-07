@@ -59,7 +59,7 @@ Publications
 
 **†** co-first author
 
-* Lee IS, **Zhu Z**, Lee J, Park JO, Wu X, Ong T, Li SM, Wang X, Chao J, Goel A. A liquid biopsy signature predicts treatment response to fluoropyrimidine plus platinum therapy in patients with metastatic or unresectable gastric cancer: implications for precision oncology. Mol Cancer. 2022 Jan 3;21(1):9. [link](https://doi.org/10.1186/s12943-021-01483-8)
+* Lee IS, **Zhu Z**, Lee J, Park JO, Wu X, Ong T, Li SM, Wang X, Chao J, Goel A. A liquid biopsy signature predicts treatment response to fluoropyrimidine plus platinum therapy in patients with metastatic or unresectable gastric cancer: implications for precision oncology. *Mol Cancer*. 2022 Jan 3;21(1):9. [link](https://doi.org/10.1186/s12943-021-01483-8)
 
 * Wada, Yuma, Mitsuo Shimada, Yuji Morine, Tetsuya Ikemoto, Yu Saito, **Zhongxu Zhu**, Xin Wang et al. "Circulating miRNA Signature Predicts Response to Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer." *JCO Precision Oncology* 5 (2021): 1788-1801. [link](https://doi.org/10.1200/PO.21.00015)
 
