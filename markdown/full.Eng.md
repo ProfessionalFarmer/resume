@@ -100,14 +100,18 @@ Patents
 Teaching
 --------
 
-2019/09-2019/12
-:    Teaching Assistant, Calculus for Life Science
-
-2020/01-2020/05
+2021/01-2021/05
 :    Teaching Assistant, Introduction to Biostatistics and Data Analysis
 
 2020/09-2020/12
 :    Teaching Assistant, Genomics and Bioinformatics
+
+2020/01-2020/05
+:    Teaching Assistant, Introduction to Biostatistics and Data Analysis
+
+2019/09-2019/12
+:    Teaching Assistant, Calculus for Life Science
+
 
 Professional Services
 ---------------------
