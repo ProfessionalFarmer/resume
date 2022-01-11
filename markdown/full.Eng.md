@@ -22,7 +22,7 @@ Education
 2021/07-2021/12
 :   **Visiting Scholar**, City of Hope National Medical Center
     
-    Supervisor: Chair and Prof., Ajay GOEL [(https://www.cityofhope.org/mdet)](https://www.cityofhope.org/mdet)
+    Supervisor: Chair and Prof., Ajay GOEL [(https://www.cityofhope.org/ajay-goel)](https://www.cityofhope.org/ajay-goel)
 
 2012-2015
 :   **MSc**, Bioinformatics, Zhejiang University
