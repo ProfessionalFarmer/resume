@@ -59,11 +59,11 @@ Publications
 
 **†** co-first author
 
-* Lee, In-Seob, **Zhongxu Zhu**, Jeeyun Lee, Joon Oh Park, Xiwei Wu, Tiffany Ong, Sierra Min Li, Xin Wang, Joseph Chao, and Ajay Goel. "A liquid biopsy signature predicts treatment response to fluoropyrimidine plus platinum therapy in patients with metastatic or unresectable gastric cancer: implications for precision oncology." ***Molecular Cancer*** 21, no. 1 (2022): 1-5. [link](https://doi.org/10.1186/s12943-021-01483-8)
+* In-Seob Lee, **Zhongxu Zhu**, Jeeyun Lee, Joon Oh Park, Xiwei Wu, Tiffany Ong, Sierra Min Li, Xin Wang, Joseph Chao, and Ajay Goel. "A liquid biopsy signature predicts treatment response to fluoropyrimidine plus platinum therapy in patients with metastatic or unresectable gastric cancer: implications for precision oncology." ***Molecular Cancer*** 21, no. 1 (2022): 1-5. [link](https://doi.org/10.1186/s12943-021-01483-8)
 
-* Wada, Yuma, Mitsuo Shimada, Yuji Morine, Tetsuya Ikemoto, Yu Saito, **Zhongxu Zhu**, Xin Wang et al. "Circulating miRNA Signature Predicts Response to Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer." ***JCO Precision Oncology*** 5 (2021): 1788-1801. [link](https://doi.org/10.1200/PO.21.00015)
+* Yuma Wada, Mitsuo Shimada, Yuji Morine, Tetsuya Ikemoto, Yu Saito, **Zhongxu Zhu**, Xin Wang et al. "Circulating miRNA Signature Predicts Response to Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer." ***JCO Precision Oncology*** 5 (2021): 1788-1801. [link](https://doi.org/10.1200/PO.21.00015)
 
-* [Letter] Wada, Yuma, **Zhongxu Zhu**, and Ajay Goel. "Re: Noninvasive identification of lymph node metastasis in T1 colorectal cancer by transcriptomic panel based on liquid biopsy assay: additional analytical strategies are needed (GASTRO-D-21-01671)." ***Gastroenterology*** (2021): S0016-5085. [link](https://doi.org/10.1053/j.gastro.2021.09.013)
+* [Letter] Yuma Wada, **Zhongxu Zhu**, and Ajay Goel. "Re: Noninvasive identification of lymph node metastasis in T1 colorectal cancer by transcriptomic panel based on liquid biopsy assay: additional analytical strategies are needed (GASTRO-D-21-01671)." ***Gastroenterology*** (2021): S0016-5085. [link](https://doi.org/10.1053/j.gastro.2021.09.013)
 
 * Daisuke Izumi†, **Zhongxu Zhu†**, Yuetong Chen†, Shusuke Toden, Xinying Huo, Mitsuro Kanda, Takatsugu Ishimoto et al. "Assessment of the Diagnostic Efficiency of a Liquid Biopsy Assay for Early Detection of Gastric Cancer." ***JAMA network open*** 4, no. 8 (2021): e2121129-e2121129. [link](https://doi.org/10.1001/jamanetworkopen.2021.21129)
 
@@ -75,7 +75,7 @@ Publications
 
 * [Book chapter] **Zhongxu Zhu†**, Guiyuan Han†, Hao Huang†, Lingli He, Yu Chen, Jia Ke, Feng Gao, Louis Vermeulen, and Xin Wang. "Genome-wide Discovery of MicroRNA Biomarkers for Cancer Precision Medicine." (2020): 1-34. [link](https://doi.org/10.1039/9781788019958-00001)
 
-* Hu Han†, Weitao Wang†, **Zhongxu Zhu†**, Jianhua Zhu, Deyong Tan, Zhipeng Zhou, Chuanzao Mao, and Xin Chen. "GIPS: A software guide to sequencing-based direct gene cloning in forward genetics studies." ***Plant physiology*** 170, no. 4 (2016): 1929-1934. [link](http://dx.doi.org/10.1104/pp.15.01327)
+* Han Hu†, Weitao Wang†, **Zhongxu Zhu†**, Jianhua Zhu, Deyong Tan, Zhipeng Zhou, Chuanzao Mao, and Xin Chen. "GIPS: A software guide to sequencing-based direct gene cloning in forward genetics studies." ***Plant physiology*** 170, no. 4 (2016): 1929-1934. [link](http://dx.doi.org/10.1104/pp.15.01327)
 
 * **Zhongxu Zhu**, and Xin Chen. "Single cell sequencing technology and its applications progress." ***Genomics and Applied Biology*** (2015): 05. [link](http://dx.doi.org/10.13417/j.gab.034.000902)
 
@@ -89,13 +89,13 @@ Conference Proceedings
 Patents
 -------
 
-* 发明201810591504.3一种基于目标区域测序的单个外显子拷贝数变异预测方法（发明人：朱忠旭;周文莉;杨克勤;吕远栋）
+* 发明专利201810591504.3一种基于目标区域测序的单个外显子拷贝数变异预测方法（发明人：朱忠旭;周文莉;杨克勤;吕远栋）
 
-* 发明201810468822.0一种伴随实验生成样本ID的方法（发明人：朱忠旭;周文莉;杨克勤;牛成镇）
+* 发明专利201810468822.0一种伴随实验生成样本ID的方法（发明人：朱忠旭;周文莉;杨克勤;牛成镇）
 
 * 实用新型201721438010.9一种快速降压的高压灭菌锅（发明人：吕远栋;牛成镇;朱忠旭）
 
-* 发明201510890563.7基于概率框架和重测序技术快速发现表型相关基因的方法（发明人：陈新;朱忠旭;王纬韬）
+* 发明专利201510890563.7基于概率框架和重测序技术快速发现表型相关基因的方法（发明人：陈新;朱忠旭;王纬韬）
 
 Teaching
 --------
