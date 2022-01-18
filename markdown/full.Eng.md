@@ -59,6 +59,8 @@ Publications
 
 **†** co-first author
 
+* [Accepted] Jinsei Miyoshi; **Zhongxu Zhu†**; Aiping Luo; Shusuke Toden; Xuantong Zhou; Daisuke Izumi; Mitsuro Kanda; Tetsuji Takayama; Iqbal Parker; Minjie Wang; Feng Gao; Ali Zaidi; Hideo Baba; Yasuhiro Kodera; Yongping Cui; Xin Wang; Zhijua Liu; Ajay Goel A microRNA-based liquid biopsy signature for the early detection of esophageal squamous cell carcinoma: A retrospective, prospective and multicenter study, ***Molecular Cancer***
+
 * In-Seob Lee, **Zhongxu Zhu**, Jeeyun Lee, Joon Oh Park, Xiwei Wu, Tiffany Ong, Sierra Min Li, Xin Wang, Joseph Chao, and Ajay Goel. "A liquid biopsy signature predicts treatment response to fluoropyrimidine plus platinum therapy in patients with metastatic or unresectable gastric cancer: implications for precision oncology." ***Molecular Cancer*** 21, no. 1 (2022): 1-5. [link](https://doi.org/10.1186/s12943-021-01483-8)
 
 * Yuma Wada, Mitsuo Shimada, Yuji Morine, Tetsuya Ikemoto, Yu Saito, **Zhongxu Zhu**, Xin Wang et al. "Circulating miRNA Signature Predicts Response to Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer." ***JCO Precision Oncology*** 5 (2021): 1788-1801. [link](https://doi.org/10.1200/PO.21.00015)
@@ -69,7 +71,7 @@ Publications
 
 * **Zhongxu Zhu**, Keqin Gregg, and Wenli Zhou. "iRGvalid: A Robust in silico Method for Optimal Reference Gene Validation." ***Frontiers in Genetics*** (2021): 1460. [link](https://doi.org/10.3389/fgene.2021.716653)
 
-* Chen Yu†, Tan Wu†, **Zhongxu Zhu†**, Hao Huang, Liang Zhang, Ajay Goel, Mengsu Yang, and Xin Wang. "An integrated workflow for biomarker development using microRNAs in extracellular vesicles for cancer precision medicine." In ***Seminars in Cancer Biology*** . Academic Press, 2021. [link](https://doi.org/10.1016/j.semcancer.2021.03.011)
+* Yu Chen†, Tan Wu†, **Zhongxu Zhu†**, Hao Huang, Liang Zhang, Ajay Goel, Mengsu Yang, and Xin Wang. "An integrated workflow for biomarker development using microRNAs in extracellular vesicles for cancer precision medicine." In ***Seminars in Cancer Biology*** . Academic Press, 2021. [link](https://doi.org/10.1016/j.semcancer.2021.03.011)
 
 * Shilu Chen†, **Zhongxu Zhu†**, Xia Yang, Lili Liu, Yang-fan He, Ming-ming Yang, Xin-yuan Guan, Xin Wang, and Jing-ping Yun. "Cleavage and polyadenylation specific factor 1 promotes tumor progression via alternative polyadenylation and splicing in hepatocellular carcinoma." ***Frontiers in cell and developmental biology*** 9 (2021): 340. [link](https://doi.org/10.3389/fcell.2021.616835)
 
