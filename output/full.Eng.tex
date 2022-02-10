@@ -1,0 +1,305 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% 
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+% 
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+
+\setupcolor[hex]
+\definecolor[titlegrey][h=757575]
+\definecolor[sectioncolor][h=397249]
+\definecolor[rulecolor][h=9cb770]
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [A4][A4]
+\setuplayout    [width=middle, height=middle,
+                 backspace=20mm, cutspace=0mm,
+                 topspace=10mm, bottomspace=20mm,
+                 header=0mm, footer=0mm]
+
+%\setuppagenumbering[location={footer,center}]
+
+\setupbodyfont[11pt, helvetica]
+
+\setupwhitespace[medium]
+
+\setupblackrules[width=31mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+%\setupdescriptions[width=10mm]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal,
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
+
+\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+\setupxtable[frame=off,option={stretch,width}]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+
+\starttext
+
+\section[title={ZHU Zhongxu 朱忠旭},reference={zhu-zhongxu-朱忠旭}]
+
+\thinrule
+
+\startplacetable[location=none]
+\startxtable
+\startxtablebody[body]
+\startxrow
+\startxcell[align=right] City University of Hong Kong \stopxcell
+\startxcell[align=left]
+\useURL[url1][https://www.zxzyl.com]\from[url1] \stopxcell
+\stopxrow
+\startxrow
+\startxcell[align=right] 83 Tat Chee Ave \stopxcell
+\startxcell[align=left]
+\useURL[url2][https://orcid.org/0000-0003-2197-5563][][ORCID:0000-0003-2197-5563]\from[url2] \stopxcell
+\stopxrow
+\stopxtablebody
+\startxtablefoot[foot]
+\startxrow
+\startxcell[align=right] Kowloon, Hong Kong \stopxcell
+\startxcell[align=left]  \stopxcell
+\stopxrow
+\stopxtablefoot
+\stopxtable
+\stopplacetable
+
+\thinrule
+
+\subsection[title={Education},reference={education}]
+
+\startdescription{2019-Now}
+  {\bf PhD}, Biomedical Sciences, City University of Hong Kong
+
+  Supervisor: Prof.~WANG Xin
+  \useURL[url3][https://xinwlab.netlify.app/][][(https://xinwlab.netlify.app/)]\from[url3]
+\stopdescription
+
+\startdescription{2021/07-2021/12}
+  {\bf Visiting Scholar}, City of Hope National Medical Center
+
+  Supervisor: Chair and Prof., Ajay GOEL
+  \useURL[url4][https://www.cityofhope.org/ajay-goel][][(https://www.cityofhope.org/ajay-goel)]\from[url4]
+\stopdescription
+
+\startdescription{2012-2015}
+  {\bf MSc}, Bioinformatics, Zhejiang University
+
+  Supervisor: Prof.~CHEN Xin
+  \useURL[url5][https://person.zju.edu.cn/xchen][][(https://person.zju.edu.cn/xchen)]\from[url5]
+\stopdescription
+
+\startdescription{2008-2012}
+  {\bf BSc}, Biotechnology, Shandong Agriculture University
+
+  Minor: {\bf BEng}, Computer Science and Technology
+\stopdescription
+
+\subsection[title={Employment},reference={employment}]
+
+\startdescription{2016/11-Now}
+  Hangzhou Biomedical Biotechnology Co., LTD
+
+  2019/03-Now {\bf Consultant} for bioinformatics affair in CAP
+  Certificated laboratory
+
+  2016/11-2019/02 {\bf Director} of the Departhment of Bioinformatics
+\stopdescription
+
+\startdescription{2015/09-2016/10}
+  Hangzhou Silicon Gene Biotechnology Co., LTD
+
+  Senior Bioinformatics {\bf Engineer}
+\stopdescription
+
+\startdescription{2015/07-2015/08}
+  National Supercomputing Center, Tianjin
+
+  {\bf Engineer} (Internship)
+\stopdescription
+
+\subsection[title={Publications},reference={publications}]
+
+{\bf †} co-first author
+
+\startitemize
+\item
+  {[}Accepted{]} Jinsei Miyoshi; {\bf Zhongxu Zhu†}; Aiping Luo; Shusuke
+  Toden; Xuantong Zhou; Daisuke Izumi; Mitsuro Kanda; Tetsuji Takayama;
+  Iqbal Parker; Minjie Wang; Feng Gao; Ali Zaidi; Hideo Baba; Yasuhiro
+  Kodera; Yongping Cui; Xin Wang; Zhijua Liu; Ajay Goel A microRNA-based
+  liquid biopsy signature for the early detection of esophageal squamous
+  cell carcinoma: A retrospective, prospective and multicenter study,
+  {\bf {\em Molecular Cancer}}
+\item
+  Souvick Roy, Mitsuro Kanda, Sachiyo Nomura, {\bf Zhongxu Zhu}, Yuji
+  Toiyama, Akinobu Taketomi, James Goldenring, Hideo Baba, Yasuhiro
+  Kodera, and Ajay Goel. Diagnostic efficacy of circular RNAs as
+  noninvasive, liquid biopsy biomarkers for early detection of gastric
+  cancer. {\bf {\em Molecular Cancer}} 21, 42 (2022).
+  \useURL[url6][https://doi.org/10.1186/s12943-022-01527-7][][link]\from[url6]
+\item
+  In-Seob Lee, {\bf Zhongxu Zhu}, Jeeyun Lee, Joon Oh Park, Xiwei Wu,
+  Tiffany Ong, Sierra Min Li, Xin Wang, Joseph Chao, and Ajay Goel.
+  \quotation{A liquid biopsy signature predicts treatment response to
+  fluoropyrimidine plus platinum therapy in patients with metastatic or
+  unresectable gastric cancer: implications for precision oncology.}
+  {\bf {\em Molecular Cancer}} 21, no. 1 (2022): 1-5.
+  \useURL[url7][https://doi.org/10.1186/s12943-021-01483-8][][link]\from[url7]
+\item
+  Yuma Wada, Mitsuo Shimada, Yuji Morine, Tetsuya Ikemoto, Yu Saito,
+  {\bf Zhongxu Zhu}, Xin Wang et al. \quotation{Circulating miRNA
+  Signature Predicts Response to Preoperative Chemoradiotherapy in
+  Locally Advanced Rectal Cancer.} {\bf {\em JCO Precision Oncology}} 5
+  (2021): 1788-1801.
+  \useURL[url8][https://doi.org/10.1200/PO.21.00015][][link]\from[url8]
+\item
+  {[}Letter{]} Yuma Wada, {\bf Zhongxu Zhu}, and Ajay Goel.
+  \quotation{Re: Noninvasive identification of lymph node metastasis in
+  T1 colorectal cancer by transcriptomic panel based on liquid biopsy
+  assay: additional analytical strategies are needed
+  (GASTRO-D-21-01671).} {\bf {\em Gastroenterology}} (2021): S0016-5085.
+  \useURL[url9][https://doi.org/10.1053/j.gastro.2021.09.013][][link]\from[url9]
+\item
+  Daisuke Izumi†, {\bf Zhongxu Zhu†}, Yuetong Chen†, Shusuke Toden,
+  Xinying Huo, Mitsuro Kanda, Takatsugu Ishimoto et al.
+  \quotation{Assessment of the Diagnostic Efficiency of a Liquid Biopsy
+  Assay for Early Detection of Gastric Cancer.} {\bf {\em JAMA network
+  open}} 4, no. 8 (2021): e2121129-e2121129.
+  \useURL[url10][https://doi.org/10.1001/jamanetworkopen.2021.21129][][link]\from[url10]
+\item
+  {\bf Zhongxu Zhu}, Keqin Gregg, and Wenli Zhou. \quotation{iRGvalid: A
+  Robust in silico Method for Optimal Reference Gene Validation.}
+  {\bf {\em Frontiers in Genetics}} (2021): 1460.
+  \useURL[url11][https://doi.org/10.3389/fgene.2021.716653][][link]\from[url11]
+\item
+  Yu Chen†, Tan Wu†, {\bf Zhongxu Zhu†}, Hao Huang, Liang Zhang, Ajay
+  Goel, Mengsu Yang, and Xin Wang. \quotation{An integrated workflow for
+  biomarker development using microRNAs in extracellular vesicles for
+  cancer precision medicine.} In {\bf {\em Seminars in Cancer Biology}}
+  . Academic Press, 2021.
+  \useURL[url12][https://doi.org/10.1016/j.semcancer.2021.03.011][][link]\from[url12]
+\item
+  Shilu Chen†, {\bf Zhongxu Zhu†}, Xia Yang, Lili Liu, Yang-fan He,
+  Ming-ming Yang, Xin-yuan Guan, Xin Wang, and Jing-ping Yun.
+  \quotation{Cleavage and polyadenylation specific factor 1 promotes
+  tumor progression via alternative polyadenylation and splicing in
+  hepatocellular carcinoma.} {\bf {\em Frontiers in cell and
+  developmental biology}} 9 (2021): 340.
+  \useURL[url13][https://doi.org/10.3389/fcell.2021.616835][][link]\from[url13]
+\item
+  {[}Book chapter{]} {\bf Zhongxu Zhu†}, Guiyuan Han†, Hao Huang†,
+  Lingli He, Yu Chen, Jia Ke, Feng Gao, Louis Vermeulen, and Xin Wang.
+  \quotation{Genome-wide Discovery of MicroRNA Biomarkers for Cancer
+  Precision Medicine.} (2020): 1-34.
+  \useURL[url14][https://doi.org/10.1039/9781788019958-00001][][link]\from[url14]
+\item
+  Han Hu†, Weitao Wang†, {\bf Zhongxu Zhu†}, Jianhua Zhu, Deyong Tan,
+  Zhipeng Zhou, Chuanzao Mao, and Xin Chen. \quotation{GIPS: A software
+  guide to sequencing-based direct gene cloning in forward genetics
+  studies.} {\bf {\em Plant physiology}} 170, no. 4 (2016): 1929-1934.
+  \useURL[url15][http://dx.doi.org/10.1104/pp.15.01327][][link]\from[url15]
+\item
+  {\bf Zhongxu Zhu}, and Xin Chen. \quotation{Single cell sequencing
+  technology and its applications progress.} {\bf {\em Genomics and
+  Applied Biology}} (2015): 05.
+  \useURL[url16][http://dx.doi.org/10.13417/j.gab.034.000902][][link]\from[url16]
+\stopitemize
+
+\subsection[title={Conference
+Proceedings},reference={conference-proceedings}]
+
+\startitemize
+\item
+  {[}Poster{]} {\bf Zhongxu Zhu}, and Xin Chen, Gene Identification Via
+  Phenotype Sequencing: a Tool That Guides Sequencing Based Forward
+  Genetics Studies, International Plant and Animal Genome Conference
+  XXII 2014, San Diego, Jan.~2014
+\item
+  {[}Abstract{]}
+\stopitemize
+
+\subsection[title={Patents},reference={patents}]
+
+\startitemize
+\item
+  发明专利201810591504.3一种基于目标区域测序的单个外显子拷贝数变异预测方法（发明人：朱忠旭;周文莉;杨克勤;吕远栋）
+\item
+  发明专利201810468822.0一种伴随实验生成样本ID的方法（发明人：朱忠旭;周文莉;杨克勤;牛成镇）
+\item
+  实用新型201721438010.9一种快速降压的高压灭菌锅（发明人：吕远栋;牛成镇;朱忠旭）
+\item
+  发明专利201510890563.7基于概率框架和重测序技术快速发现表型相关基因的方法（发明人：陈新;朱忠旭;王纬韬）
+\stopitemize
+
+\subsection[title={Teaching},reference={teaching}]
+
+\startdescription{2021/01-2021/05}
+  Teaching Assistant, Introduction to Biostatistics and Data Analysis
+\stopdescription
+
+\startdescription{2020/09-2020/12}
+  Teaching Assistant, Genomics and Bioinformatics
+\stopdescription
+
+\startdescription{2020/01-2020/05}
+  Teaching Assistant, Introduction to Biostatistics and Data Analysis
+\stopdescription
+
+\startdescription{2019/09-2019/12}
+  Teaching Assistant, Calculus for Life Science
+\stopdescription
+
+\subsection[title={Professional
+Services},reference={professional-services}]
+
+{\bf Reviewer}
+
+\startitemize[packed]
+\item
+  Frontiers in Molecular Biosciences
+\stopitemize
+
+\subsection[title={Prizes},reference={prizes}]
+
+\startitemize
+\item
+  Outstanding Academic Performance Award(2021)
+\item
+  公司优秀员工(2018)
+\item
+  校优秀毕业生(2012)，校优秀学生干部(2011)
+\stopitemize
+
+\stoptext
