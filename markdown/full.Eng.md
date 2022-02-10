@@ -6,7 +6,7 @@ ZHU Zhongxu 朱忠旭
 ------------------------------   -----------------------------------
 City University of Hong Kong                 [https://www.zxzyl.com](https://www.zxzyl.com)
 83 Tat Chee Ave                          [ORCID:0000-0003-2197-5563](https://orcid.org/0000-0003-2197-5563)
-Kowloon, Hong Kong                                        [中文简历](md.zxzyl.com/resume/ch.html)
+Kowloon, Hong Kong                                        [中文简历](https://md.zxzyl.com/resume/ch.html)
 ------------------------------   -----------------------------------
 
 ----

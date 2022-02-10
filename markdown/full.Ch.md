@@ -6,7 +6,7 @@ ZHU Zhongxu 朱忠旭
 --------------------   ------------------------------
 香港城市大学                  [https://www.zxzyl.com](https://www.zxzyl.com)
 达之路83                  [ORCID:0000-0003-2197-5563](https://orcid.org/0000-0003-2197-5563)
-九龙，香港                   [Resume-English version](md.zxzyl.com/resume/index.html)
+九龙，香港                   [Resume-English version](https://md.zxzyl.com/resume/index.html)
 --------------------   ------------------------------
 
 ----
@@ -25,12 +25,12 @@ ZHU Zhongxu 朱忠旭
     导师: 讲座教授 Ajay GOEL [(https://www.cityofhope.org/ajay-goel)](https://www.cityofhope.org/ajay-goel)
 
 2012-2015
-:   **理学硕士**, 生物信息, [浙江大学](www.zju.edu.cn)
+:   **理学硕士**, 生物信息, [浙江大学](https://www.zju.edu.cn)
 
     导师: 陈新教授 [(https://person.zju.edu.cn/xchen)](https://person.zju.edu.cn/xchen)
 
 2008-2012
-:   **理学学士**, 生物技术, [山东农业大学](www.sdau.edu.cn)
+:   **理学学士**, 生物技术, [山东农业大学](https://www.sdau.edu.cn)
 
     第二学位: **工学学士**, 计算机科学与技术
 
