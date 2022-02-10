@@ -28,7 +28,8 @@ html: init
 			--output $(OUT_DIR)/$$FILE_NAME.html $$f \
 			--metadata pagetitle=$$FILE_NAME;\
 	done ;\
-        cp output/full.Eng.html docs/index.html	
+        cp output/full.Eng.html docs/index.html ;\
+        cp output/full.Ch.html docs/ch.html	
 
 docx: init
 	for f in $(IN_DIR)/*.md; do \

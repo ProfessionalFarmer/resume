@@ -3,58 +3,58 @@ ZHU Zhongxu 朱忠旭
 
 ----
 
-------------------------------   ---------------------------------------
-City University of Hong Kong                     [https://www.zxzyl.com](https://www.zxzyl.com)
-83 Tat Chee Ave                              [ORCID:0000-0003-2197-5563](https://orcid.org/0000-0003-2197-5563)
-Kowloon, Hong Kong                                            [中文简历](md.zxzyl.com/resum/ch.html)
-------------------------------   ---------------------------------------
+------------------------------   -----------------------
+香港城市大学                     [https://www.zxzyl.com](https://www.zxzyl.com)
+达之路83                     [ORCID:0000-0003-2197-5563](https://orcid.org/0000-0003-2197-5563)
+九龙，香港
+------------------------------   -----------------------
 
 ----
 
-Education
+教育
 ---------
 
-2019-Now
-:   **PhD**, Biomedical Sciences, [City University of Hong Kong](https://www.cityu.edu.hk)
+2019-今
+:   **博士**, 生物医学科学, [香港城市大学](https://www.cityu.edu.hk)
     
-    Supervisor: Prof. WANG Xin [(https://xinwlab.netlify.app/)](https://xinwlab.netlify.app/)
+    导师: 王鑫副教授 [(https://xinwlab.netlify.app/)](https://xinwlab.netlify.app/)
 
 2021/07-2021/12
-:   **Visiting Scholar**, Global Scholars Program, [City of Hope National Medical Center](https://www.cityofhope.org/homepage)
+:   **访问学者**, 全球学者计划, [希望之城国家医疗中心](https://www.cityofhope.org/homepage)
     
-    Supervisor: Chair and Prof., Ajay GOEL [(https://www.cityofhope.org/ajay-goel)](https://www.cityofhope.org/ajay-goel)
+    导师: 讲座教授 Ajay GOEL [(https://www.cityofhope.org/ajay-goel)](https://www.cityofhope.org/ajay-goel)
 
 2012-2015
-:   **MSc**, Bioinformatics, [Zhejiang University](https://www.zju.edu.cn/english/)
+:   **理学硕士**, 生物信息, [浙江大学](www.zju.edu.cn)
 
-    Supervisor: Prof. CHEN Xin [(https://person.zju.edu.cn/xchen)](https://person.zju.edu.cn/xchen)
+    导师: 陈新教授 [(https://person.zju.edu.cn/xchen)](https://person.zju.edu.cn/xchen)
 
 2008-2012
-:   **BSc**, Biotechnology, [Shandong Agriculture University](http://english.sdau.edu.cn/)
+:   **理学学士**, 生物技术, [山东农业大学](www.sdau.edu.cn)
 
-    Minor: **BEng**, Computer Science and Technology
+    第二学位: **工学学士**, 计算机科学与技术
 
-Employment
+工作经历
 ----------
 
-2016/11-Now
-:   Hangzhou Biomedical Biotechnology Co., LTD
+2016/11-今
+:   杭州迈迪科生物科技有限公司
 
-    2019/03-Now      **Consultant** for bioinformatics affair in CAP Certificated laboratory
+    2019/03-今       CAP认证实验室 **生信顾问**
 
-    2016/11-2019/02  **Director** of the Departhment of Bioinformatics
+    2016/11-2019/02  生物信息部 **总监** 
 
 2015/09-2016/10
-:   Hangzhou Silicon Gene Biotechnology Co., LTD
+:   杭州基智基因科技有限公司
 
-    Senior Bioinformatics **Engineer**
+    **高级生物信息工程师**
 
 2015/07-2015/08
-:   National Supercomputing Center, Tianjin
+:   国家超级计算天津中心
 
-    **Engineer** (Internship)
+    **工程师** (实习)
 
-Publications
+文章
 ------------
 
 **†** co-first author
@@ -83,14 +83,14 @@ Publications
 
 * **Zhongxu Zhu**, and Xin Chen. "Single cell sequencing technology and its applications progress." ***Genomics and Applied Biology*** (2015): 05. [link](http://dx.doi.org/10.13417/j.gab.034.000902)
 
-Conference Proceedings
+会议
 ----------------------
 
 * [Poster] **Zhongxu Zhu**, and Xin Chen, Gene Identification Via Phenotype Sequencing: a Tool That Guides Sequencing Based Forward Genetics Studies, International Plant and Animal Genome Conference XXII 2014, San Diego, Jan. 2014
 
 * [Abstract]
 
-Patents
+专利
 -------
 
 * 发明专利201810591504.3一种基于目标区域测序的单个外显子拷贝数变异预测方法（发明人：朱忠旭;周文莉;杨克勤;吕远栋）
@@ -101,30 +101,30 @@ Patents
 
 * 发明专利201510890563.7基于概率框架和重测序技术快速发现表型相关基因的方法（发明人：陈新;朱忠旭;王纬韬）
 
-Teaching
+教学
 --------
 
 2021/01-2021/05
-:    Teaching Assistant, Introduction to Biostatistics and Data Analysis
+:    教学助理, Introduction to Biostatistics and Data Analysis
 
 2020/09-2020/12
-:    Teaching Assistant, Genomics and Bioinformatics
+:    教学助理, Genomics and Bioinformatics
 
 2020/01-2020/05
-:    Teaching Assistant, Introduction to Biostatistics and Data Analysis
+:    教学助理, Introduction to Biostatistics and Data Analysis
 
 2019/09-2019/12
-:    Teaching Assistant, Calculus for Life Science
+:    教学助理, Calculus for Life Science
 
 
-Professional Services
+专业服务
 ---------------------
 
-**Reviewer**
+**审稿人**
 
 * Frontiers in Molecular Biosciences
 
-Prizes
+获奖
 -----------------
 
 * Outstanding Academic Performance Award(2021)
