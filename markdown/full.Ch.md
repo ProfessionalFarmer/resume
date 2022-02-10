@@ -3,11 +3,11 @@ ZHU Zhongxu 朱忠旭
 
 ----
 
-------------------------------   -----------------------
-香港城市大学                     [https://www.zxzyl.com](https://www.zxzyl.com)
-达之路83                     [ORCID:0000-0003-2197-5563](https://orcid.org/0000-0003-2197-5563)
-九龙，香港
-------------------------------   -----------------------
+--------------------   ------------------------------
+香港城市大学                  [https://www.zxzyl.com](https://www.zxzyl.com)
+达之路83                  [ORCID:0000-0003-2197-5563](https://orcid.org/0000-0003-2197-5563)
+九龙，香港                   [Resume-English version](md.zxzyl.com/resume/index.html)
+--------------------   ------------------------------
 
 ----
 
@@ -45,19 +45,15 @@ ZHU Zhongxu 朱忠旭
     2016/11-2019/02  生物信息部 **总监** 
 
 2015/09-2016/10
-:   杭州基智基因科技有限公司
-
-    **高级生物信息工程师**
+:   杭州基智基因科技有限公司  **高级生物信息工程师**
 
 2015/07-2015/08
-:   国家超级计算天津中心
-
-    **工程师** (实习)
+:   国家超级计算天津中心  **工程师** (实习)
 
 文章
 ------------
 
-**†** co-first author
+**†** 共同第一作者
 
 * [Accepted] Jinsei Miyoshi; **Zhongxu Zhu†**; Aiping Luo; Shusuke Toden; Xuantong Zhou; Daisuke Izumi; Mitsuro Kanda; Tetsuji Takayama; Iqbal Parker; Minjie Wang; Feng Gao; Ali Zaidi; Hideo Baba; Yasuhiro Kodera; Yongping Cui; Xin Wang; Zhijua Liu; Ajay Goel A microRNA-based liquid biopsy signature for the early detection of esophageal squamous cell carcinoma: A retrospective, prospective and multicenter study, ***Molecular Cancer***
 
