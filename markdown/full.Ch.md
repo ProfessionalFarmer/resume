@@ -1,4 +1,4 @@
-ZHU Zhongxu 朱忠旭
+朱忠旭
 ==================
 
 ----
@@ -55,7 +55,7 @@ ZHU Zhongxu 朱忠旭
 
 **†** 共同第一作者
 
-* [Accepted] Jinsei Miyoshi; **Zhongxu Zhu†**; Aiping Luo; Shusuke Toden; Xuantong Zhou; Daisuke Izumi; Mitsuro Kanda; Tetsuji Takayama; Iqbal Parker; Minjie Wang; Feng Gao; Ali Zaidi; Hideo Baba; Yasuhiro Kodera; Yongping Cui; Xin Wang; Zhijua Liu; Ajay Goel A microRNA-based liquid biopsy signature for the early detection of esophageal squamous cell carcinoma: A retrospective, prospective and multicenter study, ***Molecular Cancer***
+* Jinsei Miyoshi, **Zhongxu Zhu†**, Aiping Luo, Shusuke Toden, Xuantong Zhou, Daisuke Izumi, Mitsuro Kanda, Tetsuji Takayama, Iqbal Parker, Minjie Wang, Feng Gao, Ali Zaidi, Hideo Baba, Yasuhiro Kodera, Yongping Cui, Xin Wang, Zhijua Liu, and Ajay Goel. A microRNA-based liquid biopsy signature for the early detection of esophageal squamous cell carcinoma: a retrospective, prospective and multicenter study. ***Mol Cancer*** 21, 44 (2022). [link](https://doi.org/10.1186/s12943-022-01507-x)
 
 * Souvick Roy, Mitsuro Kanda, Sachiyo Nomura, **Zhongxu Zhu**, Yuji Toiyama, Akinobu Taketomi, James Goldenring, Hideo Baba, Yasuhiro Kodera, and Ajay Goel. Diagnostic efficacy of circular RNAs as noninvasive, liquid biopsy biomarkers for early detection of gastric cancer. ***Molecular Cancer*** 21, 42 (2022). [link](https://doi.org/10.1186/s12943-022-01527-7)
 
