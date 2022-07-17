@@ -24,12 +24,12 @@
     
     导师: 讲座教授 Ajay GOEL [(https://www.cityofhope.org/ajay-goel)](https://www.cityofhope.org/ajay-goel)
 
-2012-2015
+2012/08-2015/06
 :   **理学硕士**, 生物信息, [浙江大学](https://www.zju.edu.cn)
 
     导师: 陈新教授 [(https://person.zju.edu.cn/xchen)](https://person.zju.edu.cn/xchen)
 
-2008-2012
+2008/09-2012/06
 :   **理学学士**, 生物技术, [山东农业大学](https://www.sdau.edu.cn)
 
     第二学位: **工学学士**, 计算机科学与技术
@@ -55,7 +55,7 @@
 
 † 共同第一作者，\* 通讯作者
 
-* Jinsei Miyoshi, **Zhongxu Zhu†**, Aiping Luo, Shusuke Toden, Xuantong Zhou, Daisuke Izumi, Mitsuro Kanda, Tetsuji Takayama, Iqbal Parker, Minjie Wang, Feng Gao, Ali Zaidi, Hideo Baba, Yasuhiro Kodera, Yongping Cui, Xin Wang\*, Zhijua Liu\*, and Ajay Goel\*. A microRNA-based liquid biopsy signature for the early detection of esophageal squamous cell carcinoma: a retrospective, prospective and multicenter study. ***Mol Cancer*** 21, 44 (2022). [link](https://doi.org/10.1186/s12943-022-01507-x)
+* Kota Nakamura†, **Zhongxu Zhu†**, Souvick Roy†, Eunsung Jun, Haiyong Han, Ruben M. Munoz, Satoshi Nishiwada, Geeta Sharma, Derek Cridebring, Frederic Zenhausern, Seungchan Kim, Denise J. Roe, Sourat Darabi, In Woong Han, Douglas Evans, Suguru Yamada, Michael J. Demeure, Carlos Becerra, Scott A. Celinski, Erkut Borazanci, Susan Tsai, Yasuhiro Kodera, Joon Oh Park, John Bolton, Xin Wang\*, Song Cheol Kim\*, Daniel Von Hoff\*, Ajay Goel\*. An exosome-based transcriptomic signature for noninvasive, early detection of patients with pancreatic ductal adenocarcinoma: A multicenter cohort study. ***gastroenterology*** (2022). [link](https://doi.org/10.1053/j.gastro.2022.06.090)
 
 * Souvick Roy, Mitsuro Kanda, Sachiyo Nomura, **Zhongxu Zhu**, Yuji Toiyama, Akinobu Taketomi, James Goldenring, Hideo Baba, Yasuhiro Kodera, and Ajay Goel\*. Diagnostic efficacy of circular RNAs as noninvasive, liquid biopsy biomarkers for early detection of gastric cancer. ***Mol Cancer*** 21, 42 (2022). [link](https://doi.org/10.1186/s12943-022-01527-7)
 
