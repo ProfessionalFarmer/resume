@@ -125,10 +125,10 @@
 
 * BMS Postgraduate Research Output Award (2022)
 
-* Outstanding Academic Performance Award(2021)
+* Outstanding Academic Performance Award (2021)
 
-* 公司优秀员工(2018)
+* 公司优秀员工 (2018)
 
-* 校优秀毕业生(2012)，校优秀学生干部(2011)
+* 校优秀毕业生 (2012)，校优秀学生干部 (2011)
 
 
