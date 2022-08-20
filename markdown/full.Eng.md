@@ -60,7 +60,7 @@ Publications
 † co-first author, \* corresponding author
 
 
-* Kota Nakamura†, **Zhongxu Zhu†**, Souvick Roy†, Eunsung Jun, Haiyong Han, Ruben M. Munoz, Satoshi Nishiwada, Geeta Sharma, Derek Cridebring, Frederic Zenhausern, Seungchan Kim, Denise J. Roe, Sourat Darabi, In Woong Han, Douglas Evans, Suguru Yamada, Michael J. Demeure, Carlos Becerra, Scott A. Celinski, Erkut Borazanci, Susan Tsai, Yasuhiro Kodera, Joon Oh Park, John Bolton, Xin Wang\*, Song Cheol Kim\*, Daniel Von Hoff\*, Ajay Goel\*. An exosome-based transcriptomic signature for noninvasive, early detection of patients with pancreatic ductal adenocarcinoma: A multicenter cohort study. ***gastroenterology*** (2022). [link](https://doi.org/10.1053/j.gastro.2022.06.090)
+* Kota Nakamura†, **Zhongxu Zhu†**, Souvick Roy†, Eunsung Jun, Haiyong Han, Ruben M. Munoz, Satoshi Nishiwada, Geeta Sharma, Derek Cridebring, Frederic Zenhausern, Seungchan Kim, Denise J. Roe, Sourat Darabi, In Woong Han, Douglas Evans, Suguru Yamada, Michael J. Demeure, Carlos Becerra, Scott A. Celinski, Erkut Borazanci, Susan Tsai, Yasuhiro Kodera, Joon Oh Park, John Bolton, Xin Wang\*, Song Cheol Kim\*, Daniel Von Hoff\*, Ajay Goel\*. An exosome-based transcriptomic signature for noninvasive, early detection of patients with pancreatic ductal adenocarcinoma: A multicenter cohort study. ***Gastroenterology*** (2022). [link](https://doi.org/10.1053/j.gastro.2022.06.090)
 
 * Jinsei Miyoshi†, **Zhongxu Zhu†**, Aiping Luo†, Shusuke Toden, Xuantong Zhou, Daisuke Izumi, Mitsuro Kanda, Tetsuji Takayama, Iqbal Parker, Minjie Wang, Feng Gao, Ali Zaidi, Hideo Baba, Yasuhiro Kodera, Yongping Cui, Xin Wang\*, Zhijua Liu\*, and Ajay Goel\*. A microRNA-based liquid biopsy signature for the early detection of esophageal squamous cell carcinoma: a retrospective, prospective and multicenter study. ***Mol Cancer*** 21, 44 (2022). [link](https://doi.org/10.1186/s12943-022-01507-x)
 
@@ -130,7 +130,9 @@ Professional Services
 Prizes
 -----------------
 
-* Outstanding Academic Performance Award(2021)
+* BMS Postgraduate Research Output Award (2022)
+
+* Outstanding Academic Performance Award (2021)
 
 * 公司优秀员工(2018)
 

@@ -55,7 +55,7 @@
 
 † 共同第一作者，\* 通讯作者
 
-* Kota Nakamura†, **Zhongxu Zhu†**, Souvick Roy†, Eunsung Jun, Haiyong Han, Ruben M. Munoz, Satoshi Nishiwada, Geeta Sharma, Derek Cridebring, Frederic Zenhausern, Seungchan Kim, Denise J. Roe, Sourat Darabi, In Woong Han, Douglas Evans, Suguru Yamada, Michael J. Demeure, Carlos Becerra, Scott A. Celinski, Erkut Borazanci, Susan Tsai, Yasuhiro Kodera, Joon Oh Park, John Bolton, Xin Wang\*, Song Cheol Kim\*, Daniel Von Hoff\*, Ajay Goel\*. An exosome-based transcriptomic signature for noninvasive, early detection of patients with pancreatic ductal adenocarcinoma: A multicenter cohort study. ***gastroenterology*** (2022). [link](https://doi.org/10.1053/j.gastro.2022.06.090)
+* Kota Nakamura†, **Zhongxu Zhu†**, Souvick Roy†, Eunsung Jun, Haiyong Han, Ruben M. Munoz, Satoshi Nishiwada, Geeta Sharma, Derek Cridebring, Frederic Zenhausern, Seungchan Kim, Denise J. Roe, Sourat Darabi, In Woong Han, Douglas Evans, Suguru Yamada, Michael J. Demeure, Carlos Becerra, Scott A. Celinski, Erkut Borazanci, Susan Tsai, Yasuhiro Kodera, Joon Oh Park, John Bolton, Xin Wang\*, Song Cheol Kim\*, Daniel Von Hoff\*, Ajay Goel\*. An exosome-based transcriptomic signature for noninvasive, early detection of patients with pancreatic ductal adenocarcinoma: A multicenter cohort study. ***Gastroenterology*** (2022). [link](https://doi.org/10.1053/j.gastro.2022.06.090)
 
 * Souvick Roy, Mitsuro Kanda, Sachiyo Nomura, **Zhongxu Zhu**, Yuji Toiyama, Akinobu Taketomi, James Goldenring, Hideo Baba, Yasuhiro Kodera, and Ajay Goel\*. Diagnostic efficacy of circular RNAs as noninvasive, liquid biopsy biomarkers for early detection of gastric cancer. ***Mol Cancer*** 21, 42 (2022). [link](https://doi.org/10.1186/s12943-022-01527-7)
 
@@ -122,6 +122,8 @@
 
 获奖
 -----------------
+
+* BMS Postgraduate Research Output Award (2022)
 
 * Outstanding Academic Performance Award(2021)
 
