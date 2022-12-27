@@ -57,6 +57,8 @@
 
 * Kota Nakamura†, **Zhongxu Zhu†**, Souvick Roy†, Eunsung Jun, Haiyong Han, Ruben M. Munoz, Satoshi Nishiwada, Geeta Sharma, Derek Cridebring, Frederic Zenhausern, Seungchan Kim, Denise J. Roe, Sourat Darabi, In Woong Han, Douglas Evans, Suguru Yamada, Michael J. Demeure, Carlos Becerra, Scott A. Celinski, Erkut Borazanci, Susan Tsai, Yasuhiro Kodera, Joon Oh Park, John Bolton, Xin Wang\*, Song Cheol Kim\*, Daniel Von Hoff\*, Ajay Goel\*. An exosome-based transcriptomic signature for noninvasive, early detection of patients with pancreatic ductal adenocarcinoma: A multicenter cohort study. ***Gastroenterology*** (2022). [link](https://doi.org/10.1053/j.gastro.2022.06.090)
 
+* Jinsei Miyoshi†, **Zhongxu Zhu†**, Aiping Luo†, Shusuke Toden, Xuantong Zhou, Daisuke Izumi, Mitsuro Kanda, Tetsuji Takayama, Iqbal Parker, Minjie Wang, Feng Gao, Ali Zaidi, Hideo Baba, Yasuhiro Kodera, Yongping Cui, Xin Wang\*, Zhijua Liu\*, and Ajay Goel\*. A microRNA-based liquid biopsy signature for the early detection of esophageal squamous cell carcinoma: a retrospective, prospective and multicenter study. ***Mol Cancer*** 21, 44 (2022). [link](https://doi.org/10.1186/s12943-022-01507-x)
+
 * Souvick Roy, Mitsuro Kanda, Sachiyo Nomura, **Zhongxu Zhu**, Yuji Toiyama, Akinobu Taketomi, James Goldenring, Hideo Baba, Yasuhiro Kodera, and Ajay Goel\*. Diagnostic efficacy of circular RNAs as noninvasive, liquid biopsy biomarkers for early detection of gastric cancer. ***Mol Cancer*** 21, 42 (2022). [link](https://doi.org/10.1186/s12943-022-01527-7)
 
 * In-Seob Lee, **Zhongxu Zhu**, Jeeyun Lee, Joon Oh Park, Xiwei Wu, Tiffany Ong, Sierra Min Li, Xin Wang, Joseph Chao\*, and Ajay Goel\*. "A liquid biopsy signature predicts treatment response to fluoropyrimidine plus platinum therapy in patients with metastatic or unresectable gastric cancer: implications for precision oncology." ***Mol Cancer*** 21, no. 1 (2022): 1-5. [link](https://doi.org/10.1186/s12943-021-01483-8)
@@ -85,6 +87,14 @@
 * [Poster] **Zhongxu Zhu**, and Xin Chen, Gene Identification Via Phenotype Sequencing: a Tool That Guides Sequencing Based Forward Genetics Studies, International Plant and Animal Genome Conference XXII 2014, San Diego, Jan. 2014
 
 * [Abstract]
+
+
+Katsuki Miyazaki, Zhongxu Zhu, Yuji Morine, Takeo Toshima, Yuji Toiyama, Yasuhiro Kodera, Xin Wang, Tomoharu Yoshizumi, Mitsuo Shimada, and Ajay Goel. "An exosomal miRNA-based liquid biopsy assay for the noninvasive diagnostic marker of intrahepatic cholangiocarcinoma" [DDW 2022]
+
+Nakamura, Kota, Souvick Roy, **Zhongxu Zhu**, Eunsung Jun, Haiyong Han, Ruben M. Munoz, Satoshi Nishiwada et al. "An exosomal miRNA-based liquid biopsy signature for the noninvasive early detection of pancreatic ductal adenocarcinoma." Cancer Research 82, no. 12_Supplement (2022): 3389-3389. [AACR link](https://aacrjournals.org/cancerres/article/82/12_Supplement/3389/700151)
+
+Nakamura, Kota, **Zhongxu Zhu**, Satoshi Nishiwada, In Woong Han, Joon Oh Park, Yasuhiro Kodera, Xin Wang, Masayuki Sho, and Ajay Goel. "Mo1227: A NOVEL MICRORNA SIGNATURE FOR PREDICTING SURVIVAL OUTCOMES IN PATIENTS WITH RESECTABLE PANCREATIC CANCER." Gastroenterology 162, no. 7 (2022): S-734.
+
 
 专利
 -------
