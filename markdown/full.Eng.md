@@ -60,19 +60,19 @@ Publications
 † co-first author, \* corresponding author
 
 
-Effects of local domestication warrant attention in honey bee population genetics, ***Sicence Advances*** (co-first, 2021 IF: 14.9)
+* Effects of local domestication warrant attention in honey bee population genetics, ***Sicence Advances*** (accepted, co-first, 2021 IF: 14.9)
 
 * Kota Nakamura†, **Zhongxu Zhu†**, Souvick Roy†, Eunsung Jun, Haiyong Han, Ruben M. Munoz, Satoshi Nishiwada, Geeta Sharma, Derek Cridebring, Frederic Zenhausern, Seungchan Kim, Denise J. Roe, Sourat Darabi, In Woong Han, Douglas Evans, Suguru Yamada, Michael J. Demeure, Carlos Becerra, Scott A. Celinski, Erkut Borazanci, Susan Tsai, Yasuhiro Kodera, Joon Oh Park, John Bolton, Xin Wang\*, Song Cheol Kim\*, Daniel Von Hoff\*, Ajay Goel\*. An exosome-based transcriptomic signature for noninvasive, early detection of patients with pancreatic ductal adenocarcinoma: A multicenter cohort study. ***Gastroenterology*** (2022). [link](https://doi.org/10.1053/j.gastro.2022.06.090) (co-first, 2021 IF: 33.8)
 
 * Jinsei Miyoshi†, **Zhongxu Zhu†**, Aiping Luo†, Shusuke Toden, Xuantong Zhou, Daisuke Izumi, Mitsuro Kanda, Tetsuji Takayama, Iqbal Parker, Minjie Wang, Feng Gao, Ali Zaidi, Hideo Baba, Yasuhiro Kodera, Yongping Cui, Xin Wang\*, Zhihua Liu\*, and Ajay Goel\*. A microRNA-based liquid biopsy signature for the early detection of esophageal squamous cell carcinoma: a retrospective, prospective and multicenter study. ***Mol Cancer*** 21, 44 (2022). [link](https://doi.org/10.1186/s12943-022-01507-x) (co-first, 2021 IF: 41.4)
 
-* Souvick Roy, Mitsuro Kanda, Sachiyo Nomura, **Zhongxu Zhu**, Yuji Toiyama, Akinobu Taketomi, James Goldenring, Hideo Baba, Yasuhiro Kodera, and Ajay Goel\*. Diagnostic efficacy of circular RNAs as noninvasive, liquid biopsy biomarkers for early detection of gastric cancer. ***Mol Cancer*** 21, 42 (2022). [link](https://doi.org/10.1186/s12943-022-01527-7) (2021 IF: 41.4)
+* Souvick Roy, Mitsuro Kanda, Sachiyo Nomura, **Zhongxu Zhu**, Yuji Toiyama, Akinobu Taketomi, James Goldenring, Hideo Baba, Yasuhiro Kodera, and Ajay Goel\*. Diagnostic efficacy of circular RNAs as noninvasive, liquid biopsy biomarkers for early detection of gastric cancer. ***Mol Cancer*** 21, 42 (2022). [link](https://doi.org/10.1186/s12943-022-01527-7) (co-author, 2021 IF: 41.4)
 
-* In-Seob Lee, **Zhongxu Zhu**, Jeeyun Lee, Joon Oh Park, Xiwei Wu, Tiffany Ong, Sierra Min Li, Xin Wang, Joseph Chao\*, and Ajay Goel\*. "A liquid biopsy signature predicts treatment response to fluoropyrimidine plus platinum therapy in patients with metastatic or unresectable gastric cancer: implications for precision oncology." ***Mol Cancer*** 21, no. 1 (2022): 1-5. [link](https://doi.org/10.1186/s12943-021-01483-8) (2021 IF: 41.4)
+* In-Seob Lee, **Zhongxu Zhu**, Jeeyun Lee, Joon Oh Park, Xiwei Wu, Tiffany Ong, Sierra Min Li, Xin Wang, Joseph Chao\*, and Ajay Goel\*. "A liquid biopsy signature predicts treatment response to fluoropyrimidine plus platinum therapy in patients with metastatic or unresectable gastric cancer: implications for precision oncology." ***Mol Cancer*** 21, no. 1 (2022): 1-5. [link](https://doi.org/10.1186/s12943-021-01483-8) (second author, 2021 IF: 41.4)
 
-* Yuma Wada, Mitsuo Shimada, Yuji Morine, Tetsuya Ikemoto, Yu Saito, **Zhongxu Zhu**, Xin Wang et al. "Circulating miRNA Signature Predicts Response to Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer." ***JCO Precision Oncology*** 5 (2021): 1788-1801. [link](https://doi.org/10.1200/PO.21.00015) (2021 IF: 5.4)
+* Yuma Wada, Mitsuo Shimada, Yuji Morine, Tetsuya Ikemoto, Yu Saito, **Zhongxu Zhu**, Xin Wang et al. "Circulating miRNA Signature Predicts Response to Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer." ***JCO Precision Oncology*** 5 (2021): 1788-1801. [link](https://doi.org/10.1200/PO.21.00015) (co-author, 2021 IF: 5.4)
 
-* [Letter] Yuma Wada, **Zhongxu Zhu**, and Ajay Goel\*. "Re: Noninvasive identification of lymph node metastasis in T1 colorectal cancer by transcriptomic panel based on liquid biopsy assay: additional analytical strategies are needed (GASTRO-D-21-01671)." ***Gastroenterology*** (2021): S0016-5085. [link](https://doi.org/10.1053/j.gastro.2021.09.013) (2021 IF: 33.8)
+* [Letter] Yuma Wada, **Zhongxu Zhu**, and Ajay Goel\*. "Re: Noninvasive identification of lymph node metastasis in T1 colorectal cancer by transcriptomic panel based on liquid biopsy assay: additional analytical strategies are needed (GASTRO-D-21-01671)." ***Gastroenterology*** (2021): S0016-5085. [link](https://doi.org/10.1053/j.gastro.2021.09.013) (co-author, 2021 IF: 33.8)
 
 * Daisuke Izumi†, **Zhongxu Zhu†**, Yuetong Chen†, Shusuke Toden, Xinying Huo, Mitsuro Kanda, Takatsugu Ishimoto et al. "Assessment of the Diagnostic Efficiency of a Liquid Biopsy Assay for Early Detection of Gastric Cancer." ***JAMA network open*** 4, no. 8 (2021): e2121129-e2121129. [link](https://doi.org/10.1001/jamanetworkopen.2021.21129) (co-first, 2021 IF: 13.5)
 
@@ -86,7 +86,7 @@ Effects of local domestication warrant attention in honey bee population genetic
 
 * Han Hu†, Weitao Wang†, **Zhongxu Zhu†**, Jianhua Zhu, Deyong Tan, Zhipeng Zhou, Chuanzao Mao\*, and Xin Chen\*. "GIPS: A software guide to sequencing-based direct gene cloning in forward genetics studies." ***Plant physiology*** 170, no. 4 (2016): 1929-1934. [link](http://dx.doi.org/10.1104/pp.15.01327) (co-first, 2021 IF: 8.0)
 
-* **Zhongxu Zhu**, and Xin Chen\*. "Single cell sequencing technology and its applications progress." ***Genomics and Applied Biology*** (2015): 05. [link](http://dx.doi.org/10.13417/j.gab.034.000902)
+* **Zhongxu Zhu**, and Xin Chen\*. "Single cell sequencing technology and its applications progress." ***Genomics and Applied Biology*** (2015): 05. [link](http://dx.doi.org/10.13417/j.gab.034.000902) (first author)
 
 Conference Proceedings
 ----------------------
