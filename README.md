@@ -99,3 +99,12 @@ executable, leading to errors like `Cannot find context.lua` or similar. It has 
 that running `mtxrun --generate`, ([suggested on texlive-2011-context-problem](
 https://tex.stackexchange.com/questions/53892/texlive-2011-context-problem)), can fix the
 issue.
+
+
+#### PS
+安装ossutil
+https://help.aliyun.com/document_detail/120075.html?spm=a2c4g.474474.0.0.19e251f9ELrQ2P
+下载pandoc，然后tar -xvzf 
+pandoc-2.16-linux-amd64.tar.gz
+
+
