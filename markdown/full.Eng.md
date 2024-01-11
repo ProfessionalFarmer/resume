@@ -4,9 +4,9 @@ ZHU Zhongxu 朱忠旭
 ----
 
 ------------------------------ ---------------------------- ----------------------------
-City University of Hong Kong   zhongxu.zhu@my.cityu.edu.hk         [https://www.zxzyl.com](https://www.zxzyl.com)
-83 Tat Chee Ave                +86 18868103930                 [ORCID:0000-0003-2197-5563](https://orcid.org/0000-0003-2197-5563)
-Kowloon, Hong Kong                                                              [中文简历](https://www.zxzyl.com/resume/ch.html)
+Hangzhou Institute of Medicine   zhuzhongxu@him.cas.cn         [https://www.zxzyl.com](https://www.zxzyl.com)
+HIM-BGI Joint Lab                +86 18868103930             [ORCID:0000-0003-2197-5563](https://orcid.org/0000-0003-2197-5563)
+Xiasha, Hangzhou                                                              [中文简历](https://www.zxzyl.com/resume/ch.html)
 ------------------------------ ---------------------------- ----------------------------
 
 ----
@@ -14,7 +14,7 @@ Kowloon, Hong Kong                                                              
 Education
 ---------
 
-2019/05-2023/07
+2019/05-2023/10
 :   **PhD**, Biomedical Sciences, [City University of Hong Kong](https://www.cityu.edu.hk)
     
     Supervisor: Prof. WANG Xin [(https://infiomics.netlify.app/)](https://xinwlab.netlify.app/)
@@ -37,14 +37,19 @@ Education
 Employment
 ----------
 
-2016/11-Now
+2023/11-Now
+:   Hangzhou Institute of Medicine, Chinese Academy of Sciences
+
+    HIM-BGI Joint Lab, **Assistant research fellow**
+
+2016/11-2023/10
 :   Hangzhou Biomedical Biotechnology Co., LTD
 
-    2019/03-Now      **Consultant** for bioinformatics affair in CAP Certificated laboratory
+    2019/03--2023/10  **Consultant** for bioinformatics affair in CAP Certificated laboratory
 
     2016/11-2019/02  **Department head** of the Departhment of Bioinformatics
 
-2015/09-2016/10
+2015/09-2016/11
 :   Hangzhou Silicon Gene Biotechnology Co., LTD
 
     Senior Bioinformatics **Engineer**
