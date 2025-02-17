@@ -104,6 +104,8 @@ issue.
 #### PS
 安装ossutil
 https://help.aliyun.com/document_detail/120075.html?spm=a2c4g.474474.0.0.19e251f9ELrQ2P
+
+https://github.com/jgm/pandoc/releases/
 下载pandoc，然后tar -xvzf 
 pandoc-2.16-linux-amd64.tar.gz
 
