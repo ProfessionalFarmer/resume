@@ -60,6 +60,10 @@
 
 † 共同第一作者，\* 通讯作者
 
+1. Jiang Li\*, Xiaoning Hong, Zhongxu Zhu\*, Jiang Li\*; Protocol for tumor prognostic prediction,molecular stratification, and target discoveryusing a machine learning-driven approach. ***STAR Protocols*** 6, 104130, December 19, 2025 [link](https://doi.org/10.1016/j.xpro.2025.104130)
+
+1. Rende Huang†, Jiang Li†, Qi Cao†, Lixia Wang†, Zhixiong Shao, Haochun Yang, Xinlei Zhang, Chuanlai Yang, Xiangya Kong, Qiuyue Gu, Jianmin Wu, Tsan- Yu Chiu, Penghu Lian\*, Kui Wu\*, Feng Gao\*, **Zhongxu Zhu\***, PCsRNAdb: a comprehensive resource of small noncodingRNAs across cancers, ***Nucleic Acids Research***, 2025, gkaf992 [link](https://doi.org/10.1093/nar/gkaf992) (**co-corresponding, 2023 IF: 13.1**)  
+
 1. Justin Chak Ting Cheung, Lok Wan Ng, **Zhongxu Zhu**, Bonan Chen, Stephen Li, Mingjing Xu, Xiaofan Ding, Dandan Pu, Yi Hu, Yuqing Ren, Wei Kang, Ming Li, Jason Wing Hon. Wong, Xin Wang, Yuen Kit Cheng, Wei Shen Aik, Ka Leung Wong, Simon Siu Man. Ng, Nathalie Wong\*, Yujuan Dong\*; A Citrate Synthase Splice Variant Rewires the TCA Cycle to Promote Colorectal Cancer Progression. ***Cancer Res*** 2025 Sep 3. [link](https://doi.org/10.1158/0008-5472.CAN-24-2355) (**2024 IF: 16.6**)  
 
 1. Du, Lin, Shujie Wang, Yongyan Chen, **Zhongxu Zhu**, Hai-Xi Sun\*, and Tsan-Yu Chiu\*. "Machine learning-based prediction of volatile compounds profiles in Saccharomyces cerevisiae fermentation simulating canned meat." ***npj Science of Food*** 9, no. 1 (2025): 1-13. [link](https://doi.org/10.1038/s41538-025-00435-6) (**2023 IF: 6.3**) 
@@ -125,6 +129,8 @@
 **主持**
 
 **参与**
+
+* 国家科技重大专项National Science and Technology Major Project (No. 2025ZD0551700)，2024.07~2027.06，参与
 
 * 江苏省自然科学基金优秀青年基金项目（SBK2024030638），2024.07~2027.06，骨干
 
