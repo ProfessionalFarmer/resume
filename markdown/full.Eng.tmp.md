@@ -129,29 +129,6 @@ Conference Proceedings
 
 * [Poster] **Zhongxu Zhu**, and Xin Chen, Gene Identification Via Phenotype Sequencing: a Tool That Guides Sequencing Based Forward Genetics Studies, International Plant and Animal Genome Conference XXII 2014, San Diego, Jan. 2014
 
-Patents
--------
-
-* 公示中：发明专利202510030781.7 一种基于肿瘤干性相关基因的卵巢癌分子亚型和预后模型构建方法及装置（发明人：**朱忠旭**,陈静月,丘璨瑜,操琪,王龙）
-
-* 公示中：发明专利202411459261X 一种用于食管鳞癌分子分型的随机森林分类器及分子亚型分类器和构建方法（发明人：崔永萍,王鑫,崔鹤洋,**朱忠旭**）
-
-* 公示中：发明专利202411081570.8 一种利用主成分分析法鉴定肉类罐头的分析方法（发明人：丘璨瑜,王淑洁,**朱忠旭**,陈永艳）
-
-* 公示中：发明专利202411357715.2 一种呈味核苷酸的生产方法（发明人：丘璨瑜,王淑洁,陈永艳,**朱忠旭**）
-
-* 公示中：发明专利202411004013.6 一种基于肿瘤衰老基因的肾透明细胞癌分子亚型和预后模型构建方法及装置（发明人：**朱忠旭**,陈静月,杨焕明,董伟）
-
-* 公示中：发明专利202410364260.0 一种诊断或辅助诊断胃癌的miRNA生物标志物组合及其试剂盒和应用、胃癌风险分数计算方法 (发明人：陈锦飞,**朱忠旭**,许京轩,王鑫,何荣惠)
-
-* 已授权：发明专利201810591504.3 一种基于目标区域测序的单个外显子拷贝数变异预测方法（发明人：**朱忠旭**,周文莉,杨克勤,吕远栋）
-
-* 已授权：发明专利201810468822.0 一种伴随实验生成样本ID的方法（发明人：**朱忠旭**,周文莉,杨克勤,牛成镇）
-
-* 已授权：实用新型201721438010.9 一种快速降压的高压灭菌锅（发明人：吕远栋,牛成镇,**朱忠旭**）
-
-* 已授权：发明专利201510890563.7 基于概率框架和重测序技术快速发现表型相关基因的方法（发明人：陈新,**朱忠旭**,王纬韬）
-
 Teaching
 --------
 
@@ -167,16 +144,6 @@ Teaching
 2019/09-2019/12
 :    Teaching Assistant, Calculus for Life Science
 
-
-Professional Services
----------------------
-
-**Reviewer**
-
-* Frontiers in Molecular Biosciences
-
-* Frontiers in Immunology
-
 Prizes
 -----------------
 
@@ -187,7 +154,4 @@ Prizes
 * Outstanding Academic Performance Award (2021, School of Graducate Studies)
 
 * Excellent Employee (2018)
-
-* Outstanding Gaduate (2012), Outstanding Student Cadre (2011)
-
 
