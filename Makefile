@@ -11,7 +11,7 @@ pdf: init
 	for f in $(IN_DIR)/*.md; do \
 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
 		echo $$FILE_NAME.pdf; \
-		pandoc --standalone --template $(STYLES_DIR)/$(STYLE).tex \
+		$(pandoc) --standalone --template $(STYLES_DIR)/$(STYLE).tex \
 			--from markdown --to context \
 			--variable papersize=A4 \
 			--output $(OUT_DIR)/$$FILE_NAME.tex $$f > /dev/null; \
@@ -22,7 +22,7 @@ html: init
 	for f in $(IN_DIR)/*.md; do \
 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
 		echo $$FILE_NAME.html; \
-		pandoc --standalone --include-in-header $(STYLES_DIR)/$(STYLE).css \
+		$(pandoc) --standalone --include-in-header $(STYLES_DIR)/$(STYLE).css \
 			--from markdown --to html \
 			--output $(OUT_DIR)/$$FILE_NAME.html $$f \
 			--metadata pagetitle=$$FILE_NAME;\
@@ -34,14 +34,14 @@ docx: init
 	for f in $(IN_DIR)/*.md; do \
 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
 		echo $$FILE_NAME.docx; \
-		pandoc --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.docx; \
+		$(pandoc) --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.docx; \
 	done
 
 rtf: init
 	for f in $(IN_DIR)/*.md; do \
 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
 		echo $$FILE_NAME.rtf; \
-		pandoc --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.rtf; \
+		$(pandoc) --standalone $$SMART $$f --output $(OUT_DIR)/$$FILE_NAME.rtf; \
 	done
 
 init: dir version
@@ -50,7 +50,7 @@ dir:
 	mkdir -p $(OUT_DIR)
 
 version:
-	PANDOC_VERSION=`pandoc --version | head -1 | cut -d' ' -f2 | cut -d'.' -f1`; \
+	PANDOC_VERSION=`$(pandoc) --version | head -1 | cut -d' ' -f2 | cut -d'.' -f1`; \
 	if [ "$$PANDOC_VERSION" -eq "2" ]; then \
 		SMART=-smart; \
 	else \

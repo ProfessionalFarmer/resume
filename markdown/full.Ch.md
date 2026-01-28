@@ -3,11 +3,11 @@
 
 ----
 
----------------- --------------------------- --------------------------
-生命组学中心       zhuzhongxu@him.cas.cn        [https://www.zxzyl.com](https://www.zxzyl.com)
-中科院医学所       +86 18868103930           [ORCID:0000-0003-2197-5563](https://orcid.org/0000-0003-2197-5563)
-下沙，杭州                                            [English version](https://www.zxzyl.com/resume/index.html)
----------------- --------------------------- --------------------------
+生命组学中心　　　　　　　　　　　zhuzhongxu@him.cas.cn 　　　　　　　　　　 　　　　[https://www.zxzyl.com](https://www.zxzyl.com)
+
+中科院医学所　　　　　　　　　　　　 +86 18868103930　　　　　　　　　　　　　[ORCID:0000-0003-2197-5563](https://orcid.org/0000-0003-2197-5563)
+
+下沙，杭州　　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　 　　　　　[English version](https://www.zxzyl.com/resume/index.html)
 
 ----
 
@@ -61,7 +61,6 @@
 † 共同第一作者，\* 通讯作者
 
 1. Heyang Cui†, **Zhongxu Zhu†**, Enwei Xu†, Lin Qi†, Yikun Cheng†, Yinghan Zhang†, Ling Zhang†, Matthew Yibo Cheng, Bin Yang, Ruifang Sun, Xiaofei Zhuang, Yanfeng Xi, Ting Yan, Caixia Cheng, Ning Ding, Huijuan Liu, Lu Wang, Min Guo, Dinghe Guo, Haoyu Zhang, Meilan Peng, Zhekun An, Yongjia Weng, Fang Wang, Meng Liu, Ruixin Xiong, Weihua Yin, Weimin Zhang\*, Xiaolong Cheng\*, Zhihua Liu\*, Qimin Zhan\*, Xin Wang\*, Yongping Cui\*, The consensus molecular subtypes of esophageal squamous cell carcinoma, ***Signal Transduction and Targeted Therapy*** (Accepted, **共同一作第二**，IF：52.7)
-
 
 1. Jiang Li\*, Xiaoning Hong, **Zhongxu Zhu\***, Jiang Li\*; Protocol for tumor prognostic prediction,molecular stratification, and target discoveryusing a machine learning-driven approach. ***STAR Protocols*** 6, 104130, December 19, 2025 [link](https://doi.org/10.1016/j.xpro.2025.104130) (**共同通讯第二**) 
 
@@ -131,15 +130,15 @@
 
 **主持**
 
-* 浙江省自然科学基金联合基金青基项目，2026.1~2027.12，10万
+* 浙江省自然科学基金联合基金青基项目(No. LHZQN26H160003)，2026.1~2027.12，10万
 
 **参与**
 
-* 国家科技重大专项National Science and Technology Major Project (No. 2025ZD0552400)，2025.11~2029.10，10万，课题骨干/课题任务负责人
+* 国家科技重大专项(No. 2025ZD0552400)，2025.11~2029.10，10万，课题骨干/课题任务负责人
 
-* 国家科技重大专项National Science and Technology Major Project (No. 2025ZD0551700)，2025.08~2029.07，60万，课题骨干
+* 国家科技重大专项(No. 2025ZD0551700)，2025.08~2029.07，60万，课题骨干
 
-* 江苏省自然科学基金优秀青年基金项目（SBK2024030638），2024.07~2027.06，项目骨干
+* 江苏省自然科学基金优秀青年基金项目(SBK2024030638)，2024.07~2027.06，项目骨干
 
 会议报告
 ------
@@ -190,6 +189,10 @@
 专业服务
 ---------------------
 
+**特邀编辑**
+
+* Frontiers Topic Editor: [oncogenomics driven multimodal ai for predicting and explaining immune-checkpoint blockade response](https://www.frontiersin.org/research-topics/77482/oncogenomics-driven-multimodal-ai-for-predicting-and-explaining-immune-checkpoint-blockade-response)
+
 **审稿人**
 
 * Frontiers in Molecular Biosciences
@@ -199,7 +202,9 @@
 获奖
 -----------------
 
-* 优秀职工（2024，中国科学院杭州医学研究所）
+* 优秀职工（2024、2025，中国科学院杭州医学研究所）
+
+* 优秀党务工作者（2024，中国科学院杭州医学研究所）
 
 * 研究生研究成果奖 (2022，生物医学系)
 

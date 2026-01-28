@@ -1,11 +1,153 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
 <head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta charset="utf-8" />
   <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>full.Chtmp</title>
-  <style type="text/css">code{white-space: pre;}</style>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
   <style type="text/css">
   /*
    * Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
@@ -15,29 +157,30 @@
    * This CSS document is delivered to you under the CC BY-SA 3.0 License.
    * https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
    */
-  
+
   /* Whole document */
   body {
       font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      max-width: 800px;
+      max-width: 850px;
       margin: auto;
+      font-size:18px;
       background: #FFFFFF;
       padding: 10px 10px 10px 10px;
   }
-  
+
   /* Title of the resume */
   h1 {
       font-size: 55px;
       color: #757575;
       text-align:center;
-      margin-bottom:15px;
+      margin-bottom:10px;
   }
   /* h1:hover { */
   /*     background-color: #757575; */
   /*     color: #FFFFFF; */
   /*     text-shadow: 1px 1px 1px #333; */
   /* } */
-  
+
   /* Titles of categories */
   h2 {
       /* This is called "sectioncolor" in the ConTeXt stylesheet. */
@@ -58,7 +201,7 @@
   /*     color: #FFFFFF; */
   /*     text-shadow: 1px 1px 1px #333; */
   /* } */
-  
+
   /* Definitions */
   dt {
       float: left;
@@ -74,12 +217,12 @@
       margin-top:0;
       margin-bottom:7px;
   }
-  
+
   /* Blockquotes */
   blockquote {
       text-align: center
   }
-  
+
   /* Links */
   a {
       text-decoration: none;
@@ -91,12 +234,12 @@
       text-decoration: none;
       text-shadow: 1px 1px 1px #333;
   }
-  
+
   /* Horizontal separators */
   hr {
       color: #A6A6A6;
   }
-  
+
   table {
       width: 100%;
   }
@@ -108,16 +251,16 @@
 <table>
 <tbody>
 <tr class="odd">
-<td align="left">香港城市大学</td>
-<td align="right"><a href="https://www.zxzyl.com">https://www.zxzyl.com</a></td>
+<td style="text-align: left;">香港城市大学</td>
+<td style="text-align: right;"><a href="https://www.zxzyl.com">https://www.zxzyl.com</a></td>
 </tr>
 <tr class="even">
-<td align="left">达之路83</td>
-<td align="right"><a href="https://orcid.org/0000-0003-2197-5563">ORCID:0000-0003-2197-5563</a></td>
+<td style="text-align: left;">达之路83</td>
+<td style="text-align: right;"><a href="https://orcid.org/0000-0003-2197-5563">ORCID:0000-0003-2197-5563</a></td>
 </tr>
 <tr class="odd">
-<td align="left">九龙，香港</td>
-<td align="right"></td>
+<td style="text-align: left;">九龙，香港</td>
+<td style="text-align: right;"></td>
 </tr>
 </tbody>
 </table>
@@ -153,10 +296,10 @@
 <p>2016/11-2019/02 生物信息部 <strong>部门经理</strong></p>
 </dd>
 <dt>2015/09-2016/11</dt>
-<dd><p>杭州基智基因科技有限公司 <strong>高级生物信息工程师</strong></p>
+<dd>杭州基智基因科技有限公司 <strong>高级生物信息工程师</strong>
 </dd>
 <dt>2015/07-2015/08</dt>
-<dd><p>国家超级计算天津中心 <strong>工程师</strong> (实习)</p>
+<dd>国家超级计算天津中心 <strong>工程师</strong> (实习)
 </dd>
 </dl>
 <h2 id="文章">文章</h2>
@@ -165,23 +308,23 @@
 <li><p>Kota Nakamura†, <strong>Zhongxu Zhu†</strong>, Souvick Roy†, Eunsung Jun, Haiyong Han, Ruben M. Munoz, Satoshi Nishiwada, Geeta Sharma, Derek Cridebring, Frederic Zenhausern, Seungchan Kim, Denise J. Roe, Sourat Darabi, In Woong Han, Douglas Evans, Suguru Yamada, Michael J. Demeure, Carlos Becerra, Scott A. Celinski, Erkut Borazanci, Susan Tsai, Yasuhiro Kodera, Joon Oh Park, John Bolton, Xin Wang*, Song Cheol Kim*, Daniel Von Hoff*, Ajay Goel*. An exosome-based transcriptomic signature for noninvasive, early detection of patients with pancreatic ductal adenocarcinoma: A multicenter cohort study. <strong><em>Gastroenterology</em></strong> (2022). <a href="https://doi.org/10.1053/j.gastro.2022.06.090">link</a></p></li>
 <li><p>Jinsei Miyoshi†, <strong>Zhongxu Zhu†</strong>, Aiping Luo†, Shusuke Toden, Xuantong Zhou, Daisuke Izumi, Mitsuro Kanda, Tetsuji Takayama, Iqbal Parker, Minjie Wang, Feng Gao, Ali Zaidi, Hideo Baba, Yasuhiro Kodera, Yongping Cui, Xin Wang*, Zhihua Liu*, and Ajay Goel*. A microRNA-based liquid biopsy signature for the early detection of esophageal squamous cell carcinoma: a retrospective, prospective and multicenter study. <strong><em>Mol Cancer</em></strong> 21, 44 (2022). <a href="https://doi.org/10.1186/s12943-022-01507-x">link</a></p></li>
 <li><p>Souvick Roy, Mitsuro Kanda, Sachiyo Nomura, <strong>Zhongxu Zhu</strong>, Yuji Toiyama, Akinobu Taketomi, James Goldenring, Hideo Baba, Yasuhiro Kodera, and Ajay Goel*. Diagnostic efficacy of circular RNAs as noninvasive, liquid biopsy biomarkers for early detection of gastric cancer. <strong><em>Mol Cancer</em></strong> 21, 42 (2022). <a href="https://doi.org/10.1186/s12943-022-01527-7">link</a></p></li>
-<li><p>In-Seob Lee, <strong>Zhongxu Zhu</strong>, Jeeyun Lee, Joon Oh Park, Xiwei Wu, Tiffany Ong, Sierra Min Li, Xin Wang, Joseph Chao*, and Ajay Goel*. &quot;A liquid biopsy signature predicts treatment response to fluoropyrimidine plus platinum therapy in patients with metastatic or unresectable gastric cancer: implications for precision oncology.&quot; <strong><em>Mol Cancer</em></strong> 21, no. 1 (2022): 1-5. <a href="https://doi.org/10.1186/s12943-021-01483-8">link</a></p></li>
-<li><p>Yuma Wada, Mitsuo Shimada, Yuji Morine, Tetsuya Ikemoto, Yu Saito, <strong>Zhongxu Zhu</strong>, Xin Wang et al. &quot;Circulating miRNA Signature Predicts Response to Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer.&quot; <strong><em>JCO Precision Oncology</em></strong> 5 (2021): 1788-1801. <a href="https://doi.org/10.1200/PO.21.00015">link</a></p></li>
-<li><p>[Letter] Yuma Wada, <strong>Zhongxu Zhu</strong>, and Ajay Goel*. &quot;Re: Noninvasive identification of lymph node metastasis in T1 colorectal cancer by transcriptomic panel based on liquid biopsy assay: additional analytical strategies are needed (GASTRO-D-21-01671).&quot; <strong><em>Gastroenterology</em></strong> (2021): S0016-5085. <a href="https://doi.org/10.1053/j.gastro.2021.09.013">link</a></p></li>
-<li><p>Daisuke Izumi†, <strong>Zhongxu Zhu†</strong>, Yuetong Chen†, Shusuke Toden, Xinying Huo, Mitsuro Kanda, Takatsugu Ishimoto et al. &quot;Assessment of the Diagnostic Efficiency of a Liquid Biopsy Assay for Early Detection of Gastric Cancer.&quot; <strong><em>JAMA network open</em></strong> 4, no. 8 (2021): e2121129-e2121129. <a href="https://doi.org/10.1001/jamanetworkopen.2021.21129">link</a></p></li>
-<li><p><strong>Zhongxu Zhu</strong>, Keqin Gregg, and Wenli Zhou*. &quot;iRGvalid: A Robust in silico Method for Optimal Reference Gene Validation.&quot; <strong><em>Frontiers in Genetics</em></strong> (2021): 1460. <a href="https://doi.org/10.3389/fgene.2021.716653">link</a></p></li>
-<li><p>Yu Chen†, Tan Wu†, <strong>Zhongxu Zhu†</strong>, Hao Huang, Liang Zhang, Ajay Goel, Mengsu Yang, and Xin Wang*. &quot;An integrated workflow for biomarker development using microRNAs in extracellular vesicles for cancer precision medicine.&quot; In <strong><em>Seminars in Cancer Biology</em></strong> . Academic Press, 2021. <a href="https://doi.org/10.1016/j.semcancer.2021.03.011">link</a></p></li>
-<li><p>Shilu Chen†, <strong>Zhongxu Zhu†</strong>, Xia Yang, Lili Liu, Yang-fan He, Ming-ming Yang, Xin-yuan Guan, Xin Wang*, and Jing-ping Yun*. &quot;Cleavage and polyadenylation specific factor 1 promotes tumor progression via alternative polyadenylation and splicing in hepatocellular carcinoma.&quot; <strong><em>Frontiers in cell and developmental biology</em></strong> 9 (2021): 340. <a href="https://doi.org/10.3389/fcell.2021.616835">link</a></p></li>
-<li><p>[Book chapter] <strong>Zhongxu Zhu†</strong>, Guiyuan Han†, Hao Huang†, Lingli He, Yu Chen, Jia Ke, Feng Gao, Louis Vermeulen, and Xin Wang*. &quot;Genome-wide Discovery of MicroRNA Biomarkers for Cancer Precision Medicine.&quot; (2020): 1-34. <a href="https://doi.org/10.1039/9781788019958-00001">link</a></p></li>
-<li><p>Han Hu†, Weitao Wang†, <strong>Zhongxu Zhu†</strong>, Jianhua Zhu, Deyong Tan, Zhipeng Zhou, Chuanzao Mao*, and Xin Chen*. &quot;GIPS: A software guide to sequencing-based direct gene cloning in forward genetics studies.&quot; <strong><em>Plant physiology</em></strong> 170, no. 4 (2016): 1929-1934. <a href="http://dx.doi.org/10.1104/pp.15.01327">link</a></p></li>
-<li><p><strong>Zhongxu Zhu</strong>, and Xin Chen*. &quot;Single cell sequencing technology and its applications progress.&quot; <strong><em>Genomics and Applied Biology</em></strong> (2015): 05. <a href="http://dx.doi.org/10.13417/j.gab.034.000902">link</a></p></li>
+<li><p>In-Seob Lee, <strong>Zhongxu Zhu</strong>, Jeeyun Lee, Joon Oh Park, Xiwei Wu, Tiffany Ong, Sierra Min Li, Xin Wang, Joseph Chao*, and Ajay Goel*. “A liquid biopsy signature predicts treatment response to fluoropyrimidine plus platinum therapy in patients with metastatic or unresectable gastric cancer: implications for precision oncology.” <strong><em>Mol Cancer</em></strong> 21, no. 1 (2022): 1-5. <a href="https://doi.org/10.1186/s12943-021-01483-8">link</a></p></li>
+<li><p>Yuma Wada, Mitsuo Shimada, Yuji Morine, Tetsuya Ikemoto, Yu Saito, <strong>Zhongxu Zhu</strong>, Xin Wang et al. “Circulating miRNA Signature Predicts Response to Preoperative Chemoradiotherapy in Locally Advanced Rectal Cancer.” <strong><em>JCO Precision Oncology</em></strong> 5 (2021): 1788-1801. <a href="https://doi.org/10.1200/PO.21.00015">link</a></p></li>
+<li><p>[Letter] Yuma Wada, <strong>Zhongxu Zhu</strong>, and Ajay Goel*. “Re: Noninvasive identification of lymph node metastasis in T1 colorectal cancer by transcriptomic panel based on liquid biopsy assay: additional analytical strategies are needed (GASTRO-D-21-01671).” <strong><em>Gastroenterology</em></strong> (2021): S0016-5085. <a href="https://doi.org/10.1053/j.gastro.2021.09.013">link</a></p></li>
+<li><p>Daisuke Izumi†, <strong>Zhongxu Zhu†</strong>, Yuetong Chen†, Shusuke Toden, Xinying Huo, Mitsuro Kanda, Takatsugu Ishimoto et al. “Assessment of the Diagnostic Efficiency of a Liquid Biopsy Assay for Early Detection of Gastric Cancer.” <strong><em>JAMA network open</em></strong> 4, no. 8 (2021): e2121129-e2121129. <a href="https://doi.org/10.1001/jamanetworkopen.2021.21129">link</a></p></li>
+<li><p><strong>Zhongxu Zhu</strong>, Keqin Gregg, and Wenli Zhou*. “iRGvalid: A Robust in silico Method for Optimal Reference Gene Validation.” <strong><em>Frontiers in Genetics</em></strong> (2021): 1460. <a href="https://doi.org/10.3389/fgene.2021.716653">link</a></p></li>
+<li><p>Yu Chen†, Tan Wu†, <strong>Zhongxu Zhu†</strong>, Hao Huang, Liang Zhang, Ajay Goel, Mengsu Yang, and Xin Wang*. “An integrated workflow for biomarker development using microRNAs in extracellular vesicles for cancer precision medicine.” In <strong><em>Seminars in Cancer Biology</em></strong> . Academic Press, 2021. <a href="https://doi.org/10.1016/j.semcancer.2021.03.011">link</a></p></li>
+<li><p>Shilu Chen†, <strong>Zhongxu Zhu†</strong>, Xia Yang, Lili Liu, Yang-fan He, Ming-ming Yang, Xin-yuan Guan, Xin Wang*, and Jing-ping Yun*. “Cleavage and polyadenylation specific factor 1 promotes tumor progression via alternative polyadenylation and splicing in hepatocellular carcinoma.” <strong><em>Frontiers in cell and developmental biology</em></strong> 9 (2021): 340. <a href="https://doi.org/10.3389/fcell.2021.616835">link</a></p></li>
+<li><p>[Book chapter] <strong>Zhongxu Zhu†</strong>, Guiyuan Han†, Hao Huang†, Lingli He, Yu Chen, Jia Ke, Feng Gao, Louis Vermeulen, and Xin Wang*. “Genome-wide Discovery of MicroRNA Biomarkers for Cancer Precision Medicine.” (2020): 1-34. <a href="https://doi.org/10.1039/9781788019958-00001">link</a></p></li>
+<li><p>Han Hu†, Weitao Wang†, <strong>Zhongxu Zhu†</strong>, Jianhua Zhu, Deyong Tan, Zhipeng Zhou, Chuanzao Mao*, and Xin Chen*. “GIPS: A software guide to sequencing-based direct gene cloning in forward genetics studies.” <strong><em>Plant physiology</em></strong> 170, no. 4 (2016): 1929-1934. <a href="http://dx.doi.org/10.1104/pp.15.01327">link</a></p></li>
+<li><p><strong>Zhongxu Zhu</strong>, and Xin Chen*. “Single cell sequencing technology and its applications progress.” <strong><em>Genomics and Applied Biology</em></strong> (2015): 05. <a href="http://dx.doi.org/10.13417/j.gab.034.000902">link</a></p></li>
 </ul>
 <h2 id="会议">会议</h2>
 <ul>
-<li><p>[Poster] <strong>Zhongxu Zhu</strong>, and Xin Chen, Gene Identification Via Phenotype Sequencing: a Tool That Guides Sequencing Based Forward Genetics Studies, International Plant and Animal Genome Conference XXII 2014, San Diego, Jan. 2014</p></li>
-<li><p>[Abstract] Katsuki Miyazaki, Zhongxu Zhu, Yuji Morine, Takeo Toshima, Yuji Toiyama, Yasuhiro Kodera, Xin Wang, Tomoharu Yoshizumi, Mitsuo Shimada, and Ajay Goel. &quot;An exosomal miRNA-based liquid biopsy assay for the noninvasive diagnostic marker of intrahepatic cholangiocarcinoma&quot; [DDW 2022]</p></li>
-<li><p>[Abstract] Nakamura Kota, Souvick Roy, <strong>Zhongxu Zhu</strong>, Eunsung Jun, Haiyong Han, Ruben M. Munoz, Satoshi Nishiwada et al. &quot;An exosomal miRNA-based liquid biopsy signature for the noninvasive early detection of pancreatic ductal adenocarcinoma.&quot; Cancer Research 82, no. 12_Supplement (2022): 3389-3389. <a href="https://aacrjournals.org/cancerres/article/82/12_Supplement/3389/700151">AACR link</a></p></li>
-<li><p>[Abstract] Nakamura Kota, <strong>Zhongxu Zhu</strong>, Satoshi Nishiwada, In Woong Han, Joon Oh Park, Yasuhiro Kodera, Xin Wang, Masayuki Sho, and Ajay Goel. &quot;Mo1227: A NOVEL MICRORNA SIGNATURE FOR PREDICTING SURVIVAL OUTCOMES IN PATIENTS WITH RESECTABLE PANCREATIC CANCER.&quot; Gastroenterology 162, no. 7 (2022): S-734.</p></li>
+<li><p>[Poster] <strong>Zhongxu Zhu</strong>, and Xin Chen, Gene Identification Via Phenotype Sequencing: a Tool That Guides Sequencing Based Forward Genetics Studies, International Plant and Animal Genome Conference XXII 2014, San Diego, Jan. 2014</p></li>
+<li><p>[Abstract] Katsuki Miyazaki, Zhongxu Zhu, Yuji Morine, Takeo Toshima, Yuji Toiyama, Yasuhiro Kodera, Xin Wang, Tomoharu Yoshizumi, Mitsuo Shimada, and Ajay Goel. “An exosomal miRNA-based liquid biopsy assay for the noninvasive diagnostic marker of intrahepatic cholangiocarcinoma” [DDW 2022]</p></li>
+<li><p>[Abstract] Nakamura Kota, Souvick Roy, <strong>Zhongxu Zhu</strong>, Eunsung Jun, Haiyong Han, Ruben M. Munoz, Satoshi Nishiwada et al. “An exosomal miRNA-based liquid biopsy signature for the noninvasive early detection of pancreatic ductal adenocarcinoma.” Cancer Research 82, no. 12_Supplement (2022): 3389-3389. <a href="https://aacrjournals.org/cancerres/article/82/12_Supplement/3389/700151">AACR link</a></p></li>
+<li><p>[Abstract] Nakamura Kota, <strong>Zhongxu Zhu</strong>, Satoshi Nishiwada, In Woong Han, Joon Oh Park, Yasuhiro Kodera, Xin Wang, Masayuki Sho, and Ajay Goel. “Mo1227: A NOVEL MICRORNA SIGNATURE FOR PREDICTING SURVIVAL OUTCOMES IN PATIENTS WITH RESECTABLE PANCREATIC CANCER.” Gastroenterology 162, no. 7 (2022): S-734.</p></li>
 </ul>
 <h2 id="专利">专利</h2>
 <ul>
@@ -193,16 +336,16 @@
 <h2 id="教学">教学</h2>
 <dl>
 <dt>2021/01-2021/05</dt>
-<dd><p>教学助理, Introduction to Biostatistics and Data Analysis</p>
+<dd>教学助理, Introduction to Biostatistics and Data Analysis
 </dd>
 <dt>2020/09-2020/12</dt>
-<dd><p>教学助理, Genomics and Bioinformatics</p>
+<dd>教学助理, Genomics and Bioinformatics
 </dd>
 <dt>2020/01-2020/05</dt>
-<dd><p>教学助理, Introduction to Biostatistics and Data Analysis</p>
+<dd>教学助理, Introduction to Biostatistics and Data Analysis
 </dd>
 <dt>2019/09-2019/12</dt>
-<dd><p>教学助理, Calculus for Life Science</p>
+<dd>教学助理, Calculus for Life Science
 </dd>
 </dl>
 <h2 id="专业服务">专业服务</h2>

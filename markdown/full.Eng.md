@@ -3,11 +3,11 @@ ZHU Zhongxu 朱忠旭
 
 ----
 
------------------------------- ---------------------------- ----------------------------
-Hangzhou Institute of Medicine   zhuzhongxu@him.cas.cn          [https://www.zxzyl.com](https://www.zxzyl.com)
-Biomics Center                +86 18868103930               [ORCID:0000-0003-2197-5563](https://orcid.org/0000-0003-2197-5563)
-Xiasha, Hangzhou                                                              [中文简历](https://www.zxzyl.com/resume/ch.html)
------------------------------- ---------------------------- ----------------------------
+Hangzhou Institute of Medicine　　　　　　　　　zhuzhongxu@him.cas.cn　　　　　 　　　　[https://www.zxzyl.com](https://www.zxzyl.com)
+
+Biomics Center　　　　　　　　　　　　　　　　 +86 18868103930　 　 　　　　　　[ORCID:0000-0003-2197-5563](https://orcid.org/0000-0003-2197-5563)
+
+Xiasha, Hangzhou　　　　　　　　　　　　　　　 　　　　　　　　　　　　　　　　　　　　 　　　　　[中文简历](https://www.zxzyl.com/resume/index.html)</pre>
 
 ----
 
@@ -116,6 +116,36 @@ Publications
 
 1. **Zhongxu Zhu**, and Xin Chen\*. "Single cell sequencing technology and its applications progress." ***Genomics and Applied Biology*** (2015): 05. [link](http://dx.doi.org/10.13417/j.gab.034.000902) (**first author**)
 
+Funding
+-------
+
+**Principal Investigator**
+
+* Hangzhou Joint Fund of Zhejiang Provincial Natural Science Foundation of China
+
+No.LHZQN26H160003, Period: January 2026 ~ December 2027, Funding: 100,000 RMB
+
+**Participant**
+
+* National Science and Technology Major Project 
+
+No. 2025ZD0552400, Period: November 2025 ~ October 2029, Funding: 100,000 RMB
+
+Role: Core Member of the Project / Task Leader
+
+* National Science and Technology Major Project
+
+No. 2025ZD0551700, Period: August 2025 ~ July 2029, Funding: 600,000 RMB.
+
+Role: Core Member of the Project
+
+* Excellent Young Scientists Fund Project of Jiangsu Provincial Natural Science Foundation
+
+No. SBK2024030638, Period: July 2024 ~ June 2027
+
+Role: Core Member of the Project
+
+
 Conference Proceedings
 ----------------------
 
@@ -170,6 +200,10 @@ Teaching
 
 Professional Services
 ---------------------
+
+**Topic/Issue Editor**
+
+* Frontiers Topic Editor: [Oncogenomics-Driven Multimodal AI for Predicting and Explaining Immune Checkpoint Blockade Response](https://www.frontiersin.org/research-topics/77482/oncogenomics-driven-multimodal-ai-for-predicting-and-explaining-immune-checkpoint-blockade-response)
 
 **Reviewer**
 
